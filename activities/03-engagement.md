@@ -168,7 +168,6 @@ below.
 	    <ul>
 		<li> What are the timelines of the projects?</li>
 	    </ul>
-	</li>
 	<li> What hardware resources are you currently using for computation? 
 	    <ul>
  		<li> Do these meet your computational needs? </li>
@@ -195,7 +194,7 @@ below.
 	    <ul>
   		<li> Network issues?</li>
   		<li> Knowledge/expertise?</li>
-  		<li> Hardware?</li>  </ol></li>
+  		<li> Hardware?</li>
 		<li> Where do you see your research going in the future?</li>
 	   </ul>
 	</li>

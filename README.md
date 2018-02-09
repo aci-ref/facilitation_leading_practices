@@ -19,6 +19,7 @@ order to understand the purpose and method behind this documentation.
 <h2>There are two primary ways to contribute:</h2> 
 
 <h3><i>For those familiar with GitHub</i></h3>
+
 Please visit our [repository for this website](https://github.com/aci-ref/facilitation_leading_practices). 
 All html pages are generated from plain-text Markdown (.md) files for easy editing and 
 contribution of suggested changes via pull requests. You can:
@@ -27,6 +28,7 @@ contribution of suggested changes via pull requests. You can:
 * [Fork](https://help.github.com/articles/fork-a-repo/) the "[facilitation-leading-practices](https://github.com/aci-ref/facilitation_leading_practices)" repository to your own GitHub account, make edits, and then submit a "[New Pull Request](https://github.com/aci-ref/facilitation_leading_practices/pulls)"
 
 <h3><i>For those less familiar with GitHub</i></h3>
+
 Please submit to this form https://goo.gl/KKEu5e to discuss your 
 desired contribution. 
 
