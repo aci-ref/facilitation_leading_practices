@@ -3,7 +3,7 @@ layout: page
 title: Key Terms and Definitions
 ---
 
-The terms below are used throughout the Facilitation Best Practices
+The terms below are used throughout the Facilitation Leading Practices
 documentation, and often with definitions specific to their context
 within the documentation. To establish consistent interpretations of
 these terms across various sections and chapters, we define the terms as
@@ -14,7 +14,7 @@ Facilitator
 : an individual working directly with researchers and/or other scholars
 with a personalized approach to enhance their ACI capabilities for
 transformative impacts to scholarship. (See also, *[Introduction > What is
-Facilitation?](../introduction/#whatis)*). Throughout the Facilitation Best Practices
+Facilitation?](../introduction/#whatis)*). Throughout the Facilitation Leading Practices
 documentation, we use the capitalized form of the noun in order to
 distinguish our definition of Facilitator from more generic definitions
 of facilitator.
@@ -31,7 +31,7 @@ same name, or
 : (2) the NSF-sponsored collaboration of multiple
 institutions invested in the professional development of Facilitators in
 support of cyberinfrastructure scholarship. Throughout the Facilitation
-Best Practices, we strive to clarify which entity is referred to by
+Leading Practices, we strive to clarify which entity is referred to by
 using more specific language, such as “ACI-REF project”, “ACI-REF
 institutions”, or “an ACI-REF”.
 
@@ -93,7 +93,7 @@ described below
 	provider and team of staff. Because the ACI-REF program includes
 	Facilitators who are most-closely associated with centralized research
 	computing service providers, many of the examples in the Facilitation
-	Best Practices documentation are explained within the context of common
+	Leading Practices documentation are explained within the context of common
 	approaches for supporting research computing on campuses.
 
 

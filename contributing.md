@@ -11,15 +11,15 @@ contributions to this material, to make it fully representative of the
 research support community it describes.  
 
 Before contributing, we recommend that 
-you read the [Introduction](http://aci-ref.github.io/facilitation_best_practices/introduction) in 
+you read the [Introduction](http://aci-ref.github.io/facilitation_leading_practices/introduction) in 
 order to understand the purpose and method behind this documentation.  
 
-This website is hosted through [GitHub](https://github.com/aci-ref/facilitation_best_practices). 
+This website is hosted through [GitHub](https://github.com/aci-ref/facilitation_leading_practices). 
 The main chapters are in the top-level folder named “activities”. The pages are generated from 
 plain-text Markdown (.md) files for easy editing. See GitHub's tutorial on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for help with Markdown.
 
 For those familiar with GitHub, we encourage you to [fork](https://help.github.com/articles/fork-a-repo/) 
-the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_best_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://help.github.com/articles/creating-a-pull-request/)".
+the "[facilitation-best-practices](https://github.com/aci-ref/facilitation_leading_practices)" repository to your own GitHub account (required) and start writing. To merge your changes, submit a "[New pull request](https://help.github.com/articles/creating-a-pull-request/)".
 
 > As an example, to edit the Chapter on Engagement in your GitHub account: 
 > 

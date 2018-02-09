@@ -316,7 +316,7 @@ Training events Tools for managing users Account creation Usage tracking
 Engagement tracking Tools for assessment of facilitation efforts
 
 All of these are discussed in more detail in subsequent chapters of this
-*[Best Practices of Facilitation Guide](..)*.
+*[Leading Practices of Facilitation Guide](..)*.
 
 <a name="team-members"></a>
 
@@ -386,14 +386,14 @@ In the remainder of this document we present information about what we
 see as the major aspects of facilitation, as presented in the overview
 chapter, and share lessons learned from our collective experiences from
 both being facilitators and from numerous discussions on facilitation
-best practices as part of the ACI-REF program which funded the creation
+leading practices as part of the ACI-REF program which funded the creation
 of this document. While each organization will have unique facilitation
 needs, much of the information provided is on the fundamental tasks of
 facilitation: outreach, engagement, assistance and education. Each of
 these topics are covered in the subsequent chapters of this document.
 
 As Facilitators, we hope that this chapter, as well as the remainder of
-the *[Best Practices of Facilitation](../..)* document and the additional
+the *[Leading Practices of Facilitation](../..)* document and the additional
 information found on our website, *[www.aciref.org](https://aciref.org/)*, serves as a useful
 starting place as you begin a career as a Facilitator.  The material was
 designed to answer questions, explain topics and suggest options that

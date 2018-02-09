@@ -72,7 +72,7 @@ training for ACI facilitators are:
 <div class="bullet-box" style="clear: right;">
     <ul class="bullet-list-square">
 	<li>Teaching: Facilitators should continue to update their skills in
-teaching and learn the current trends and best practices to make
+teaching and learn the current trends and leading practices to make
 trainings more beneficial for researchers.</li>
 	<li>Public speaking and presenting: In line with teaching methods, improving
 presentation skills provides benefits not just in training but at

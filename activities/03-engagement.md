@@ -79,7 +79,7 @@ either case, having an initial engagement with a new user of ACI
 resources is a good idea, as it serves as an introduction of the
 Facilitator and the role of facilitation to the researcher.
 
-The remaining sections will address best practices for successful
+The remaining sections will address leading practices for successful
 engagements. "[Overview of an Engagement Meeting](#overview)" describes how to
 prepare for a meeting, what to consider during the meeting, and how to
 conclude a meeting. "[Record Keeping of User Interactions](#records)" 
@@ -425,7 +425,7 @@ overboard.</li>
 devote a portion of time to documenting this information, ensure that
 you can justify the effort for your procedures.</li>
 <li>Ensure compliance with your institutional policies in regard to
-information security and user information. Utilize your institution’s best practices
+information security and user information. Utilize your institution’s leading practices
 on where information about researchers is stored and how it is accessed.
 For instance, can/should it be accessible from only within the
 institution (i.e. web accessible)? In some of the current ACI-REF

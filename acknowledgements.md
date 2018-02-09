@@ -24,12 +24,12 @@ who have contributed to the initial content and ongoing maintenance of this docu
 <br>
 <br>
 We also would like to thank Robben Migacz from the University of Utah
-for designing the icons used throughout the Best Practices documentation. We hope you
+for designing the icons used throughout the Leading Practices documentation. We hope you
 like them as much as we do.
 <br>
 <br>
 <center>
-<b>Original Best Practices Content Team:</b> <br>
+<b>Original Leading Practices Content Team:</b> <br>
 Sean Cleveland (University of Hawaii)<br>
 Bob Freeman (Harvard University)<br>
 Christina Koch (University of Wisconsin-Madison)<br>

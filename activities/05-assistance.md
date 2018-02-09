@@ -196,7 +196,7 @@ multiple facilitators (or similar individuals) at a given session, or to
 have other ACI staff prepared to assist should office hours become too
 busy for a sole person. As office hours are otherwise very similar to
 scheduled meetings in that they are usually executed in a face-to-face
-manner, the best practices of assisting an individual researcher are the
+manner, the leading practices of assisting an individual researcher are the
 same for both, while acknowledging the potential need for juggling more
 than one researcher’s concerns at the same time during office hours.
 
@@ -211,7 +211,7 @@ be effective when email is perceived to be insufficient and when a
 convenient location for in-person assistance is not possible. These and
 other less common routes not discussed here can be implemented,
 according to the Facilitator’s best judgement regarding applicability
-and best practices, drawing on similarities with the
+and leading practices, drawing on similarities with the
 previously-described routes. 
 
 As technology preferences and other factors shift researcher and

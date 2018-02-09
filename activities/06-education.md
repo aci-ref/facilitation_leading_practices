@@ -66,7 +66,7 @@ Researchers attend an research computing workshop.
 Furthermore, there are certainly overlaps between this chapter and that
 for *[Outreach](../02-outreach)*, as some information delivered in outreach efforts
 might certainly be thought of as educational. However, we distinguish
-*outreach* and *education*, for the purposes of defining best practices,
+*outreach* and *education*, for the purposes of defining leading practices,
 by their intent: whereas, *outreach* was previously described as efforts
 to promote awareness of ACI services and resources (including the
 Facilitator role), as well as their general usefulness to research,
@@ -102,7 +102,7 @@ needs of users of an ACI resource.
 
 It is important to state that many of the ideas behind the tips and
 practices in this chapter are not original. There exists a plethora of
-established research and best practices guidance for the production and
+established research and leading practices guidance for the production and
 delivery of education and training materials, including and reaching
 beyond materials specific to cyberinfrastructure. We reference several
 resources with informative conclusions from such research. However, the
@@ -391,7 +391,7 @@ learning and documentation materials should be developed with clear
 learning goals.[^5] [^2] In order to develop the
 right materials for the information to be communicated, content
 developers should consider the following details in light of learning
-goals and best practices in curriculum development and technical
+goals and leading practices in curriculum development and technical
 documentation:
 <div class="bullet-box">
     <ul class="bullet-list-square">
@@ -692,7 +692,7 @@ instructors are frank about their own knowledge limitations.[^15] Furthermore,
 instructors should
 revisit learner motivations and expectations for a particular learning
 opportunity by frequently tying specific concepts and tasks to desired
-goals, outcomes, and best practices for using ACI in real-world use
+goals, outcomes, and leading practices for using ACI in real-world use
 cases.[^1]
 
 Beyond the above practices for live instruction, we specifically discuss
@@ -709,7 +709,7 @@ achieve holistic learning outcomes and provide variety. For example, an
 information talk introducing a computing cluster and forms of compute
 parallelization may precede intro tutorials for basic use of a cluster.
 Otherwise, lone informational talks are very similar to *outreach*,
-drawing on the same best practices for content development. However, the
+drawing on the same leading practices for content development. However, the
 inclusion of hypothetical examples for executing ACI tasks, within an
 informational talk, can serve as a form of guided instruction and is
 especially effective if the presentation materials or a recording are

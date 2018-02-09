@@ -6,16 +6,16 @@ title: Introduction and Major Ideas
 
 <a name="toc"></a>
 
-1. [Goals, Motivation, and Approach for Facilitation Best Practices Documentation](#goals)
+1. [Goals, Motivation, and Approach for Facilitation Leading Practices Documentation](#goals)
 2. [What is Facilitation?](#whatis)    
 	2.1 [Philosophically](#whatis-philosophy)    
 	2.2 [In Practice (defining the Major Activities of Facilitation)](#whatis-practice)    
 	2.3 [What Skills and Experience Should Facilitators Possess?](#whatis-skills)    
-3. [Contributing to the Best Practices Documentation](#contribute)
+3. [Contributing to the Leading Practices Documentation](#contribute)
 
 
 <a name="goals"></a>
-<h2>Goals, Motivation, and Approach for Establishing Facilitation Best Practices</h2>
+<h2>Goals, Motivation, and Approach for Establishing Facilitation Leading Practices</h2>
 
 <table class="img-panel"><tbody><tr>
   <td><img class="panel" src="{{ site.baseurl }}/images/assistance_panel.png" alt="Engagement with Researcher"></td>
@@ -40,11 +40,11 @@ and previously unimagined scholarship outcomes</a> across a variety of research 
 
 As a project, ACI-REF hopes to bring the successful practices of “facilitation” 
 to other academic institutions and interested entities, and across many types 
-of cyberinfrastructure, by documenting the best practices of ACI facilitation, 
-herein. For simplicity, and because we hope that these best practices will 
+of cyberinfrastructure, by documenting the leading practices of ACI facilitation, 
+herein. For simplicity, and because we hope that these leading practices will 
 generalize beyond the institutions within the ACI-REF project, we refer to 
 “Facilitators” rather than “ACI-REFs” throughout the remaining *Facilitation 
-Best Practices* content.
+Leading Practices* content.
 
 In particular, we hope that the documentation herein will achieve the
 following goals and enhance the impact of ACI services for scholarship: 
@@ -72,7 +72,7 @@ of documentation is also accompanied by *[Key Terms and Definitions](../definiti
 *[Appendix](../appendix)* with supplementary materials that are referred to within the
 chapters.
 
-Importantly, the best practices established in this documentation are
+Importantly, the leading practices established in this documentation are
 meant to be continually revised, leveraging perspectives not only from 
 the institutions contributing to the ACI-REF project but also from the 
 increasing number of institutions implementing facilitation practices. 
@@ -93,7 +93,7 @@ described herein will contribute in varying degrees to any single
 Facilitator’s specific goals and practices.
 
 There are a number of other specific interpretations of the “facilitator” 
-term with accompanying documentation of best practices. Some of these 
+term with accompanying documentation of leading practices. Some of these 
 refer more generally to the facilitation of group efforts in professional 
 environments and other contexts. The documentation, has significant 
 overlaps with other literature on "facilitators", and Facilitators of ACI 
@@ -173,7 +173,7 @@ include, but are certainly not limited to:
 <a name="whatis-practice"></a>
 <h3>In Practice</h3>
 
-The bulk of the documentation of best practices lies within chapters for 
+The bulk of the documentation of leading practices lies within chapters for 
 each of the below *[Major Activities of Facilitation](../activities)*.
 
 <table>

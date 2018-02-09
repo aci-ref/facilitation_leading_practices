@@ -9,16 +9,16 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://aci-ref.github.io/facilitation_best_practices"
-baseurl: "/facilitation_best_practices"
+url: "http://aci-ref.github.io/facilitation_leading_practices"
+baseurl: "/facilitation_leading_practices"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ACI-REF Best Practices of Facilitation
+title: ACI-REF Leading Practices of Facilitation
 
 # Short description of your site
-description: Best Practices for Facilitation, developed as part of ACI-REF project
+description: Leading Practices for Facilitation, developed as part of ACI-REF project
 
 # --- Navigation bar options --- #
 
@@ -60,7 +60,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Best Practices of Facilitation"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Leading Practices of Facilitation"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 

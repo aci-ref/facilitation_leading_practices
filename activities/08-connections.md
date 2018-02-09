@@ -76,7 +76,7 @@ the researchers they engage with, no facilitator can remember all
 details of all researcher interactions over time. As a result, there are
 several strategies for supplementing the facilitator’s own memory, many
 of which are already built into the facilitation practices described
-elsewhere in the *[Best Practices of Facilitation](http://aci-ref.github.io/facilitation_best_practices)*. For example, the notes
+elsewhere in the *[Leading Practices of Facilitation](http://aci-ref.github.io/facilitation_leading_practices)*. For example, the notes
 taken by facilitators during and after engagements or assistance
 interactions will serve as a useful resource. If these are stored and
 organized for easy searching, the facilitator will be able to easily
@@ -271,7 +271,7 @@ After realizing that such a connection might be beneficial, the
 facilitator should obtain permission from both parties before providing
 a formal introduction. Depending on the context, the facilitator might
 even join a first meeting or remain CC’d for email discussions - an
-approach that can be important for ensuring best practices and
+approach that can be important for ensuring leading practices and
 correcting initial misinformation. Generally, the facilitator should
 step back after communication productively kicks off, but reiterate the
 availability of any needed support and assistance, including

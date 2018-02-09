@@ -43,7 +43,7 @@ engagements will result in a formal ACI Plan as some resolutions will be
 as simple as issuing a ticket or emailing a researcher.
 
 In this section, the concept of the ACI plan will be further defined and
-discussed along with some implementation best practices.
+discussed along with some implementation leading practices.
 
 <a name="plans"></a>
 
@@ -329,7 +329,7 @@ Jump to: [top](#toc)
 
 # Regular Evaluation
 
-A solid best practice in managing interaction with researchers is to
+A solid leading practice in managing interaction with researchers is to
 check in at certain intervals to follow-up on the progress of ongoing
 engagements and ACI plan implementation as well as following up to
 evaluate the success of completed implementations.
