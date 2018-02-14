@@ -86,8 +86,8 @@ position, they may have addressed the following questions:
 <li>Is there specific domain expertise that will be important for this facilitator?</li>
 </ul>
 </div>
-The answers to these questions would have helped prioritize expectations
-for the new position and helped guide the hiring process, including how
+The answers to these questions will help prioritize expectations
+for the new position and help guide the hiring process, including how
 to reach an appropriate candidate pool.
 
 <a name="team"></a>
