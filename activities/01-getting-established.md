@@ -195,7 +195,7 @@ building up ACI resources and utilization.
 <a href="../../img/10-03.jpg" target="_blank">
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-03.jpg" alt="resource-usage"></a>
 <br><i>Usage statistics can help Facilitators understand the user base and identify users that
-may need assistance, and opportunities for improved use of ACI resources</i></br>
+may need assistance, and opportunities for improved use of ACI resources</i>
 </div>
 It is crucial that a new Facilitator understand the 
 existing and prospective user base. A
