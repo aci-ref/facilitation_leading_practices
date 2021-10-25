@@ -309,11 +309,19 @@ place, they should be reviewed in order to understand the current state
 of facilitation as well as its effectiveness. These may include items
 such as:
 
-Facilitation materials Documentation (both user facing and internal to
-the ACI organization) Training materials Practices for interacting with
-researchers Engagement practices Issue/ticket systems Office hours
-Training events Tools for managing users Account creation Usage tracking
-Engagement tracking Tools for assessment of facilitation efforts
+- Facilitation materials
+- Documentation (both user facing and internal to the ACI organization)
+- Training materials
+- Practices for interacting with researchers
+- Engagement practices
+- Issue/ticket systems
+- Office hours
+- Training events
+- Tools for managing users
+- Account creation
+- Usage tracking
+- Engagement tracking
+- Tools for assessment of facilitation efforts
 
 All of these are discussed in more detail in subsequent chapters of this
 *[Leading Practices of Facilitation Guide](..)*.
