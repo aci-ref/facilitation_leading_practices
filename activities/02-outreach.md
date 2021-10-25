@@ -204,21 +204,21 @@ Jump to: [top](#toc)
 # Partnering with Existing Events
 
 Participating in existing events at an institution can help an ACI
-organization reach new and diverse audiences, and can be easier than
+organization reach new, diverse audiences and can be easier than
 creating an event solely for the purpose of promoting awareness of ACI
 resources. Thus, researching existing activities at the institutional or
 departmental levels is a good place to start with outreach. For
 activities at the division or department level, ask existing ACI users
 and their ITS or department directors about upcoming or regular events.
 At the institutional level, check with centers for faculty and research
-support. For initial contact, reaching out to  existing communications
-groups at any of these levels, can also be a good place to start.
+support. For initial contact, reaching out to existing communications
+groups at any of these levels can also be a good place to start.
 Utilizing existing, regularly scheduled meetings such as those discussed
 below has the distinct advantage that the individuals involved already
-have the meeting on their calendars and therefore the Facilitator does
+have the meeting on their calendars, and therefore the Facilitator does
 not have to arrange for a time that works with multiple schedules. In
-addition, the location of the meeting is also already determined, and
-therefore there is no requirement to find an suitable location.
+addition, the location of the meeting is also already determined, 
+meaning there is no requirement to find an suitable location.
 
 For a Facilitator in an academic setting, established events that can be
 leveraged for outreach include, but are not limited to, faculty
