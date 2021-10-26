@@ -320,7 +320,7 @@ a course of action that is more complex. In these instances, it is ideal
 to create an ACI plan (see *[Implementing an ACI Plan](../04-aci_plan)* for more
 details) to document and organize all the major steps as one of the
 engagement outcomes. This plan can be used to drive future assistance
-and engagement meetings and aide in keeping the team organized for
+and engagement meetings and aid in keeping the team organized for
 specific tasks that relate to particular researchers. It provides a
 framework to track tasks that block other tasks while highlighting
 dependencies. In essence, an ACI plan is a blueprint or project
