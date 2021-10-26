@@ -406,13 +406,13 @@ Example poster from the University of Utah's Center for High Performance Computi
 
 A poster with highlights of either the resources available or a use
 case, or both, is another valuable tool to use when doing outreach. This
-can be either a printed poster, or can be a monitor showing a slideshow
+can be either a printed poster or can be a monitor showing a slideshow
 of use cases and informational materials. While often these are created
 for an external event, they can also be displayed at the ACI
 organization, especially when the location is one that is visited by the
 user base and any visitors to the organization. A Facilitator or any
-other ACI staff can use these as talking points on the ACI resource and its usage when meeting with either
-established or new users.
+other ACI staff can use these as talking points on the ACI resource and 
+its usage when meeting with either established or new users.
 
 <a name="handouts"></a>
 
@@ -426,7 +426,7 @@ information in an easy-to-consume format. The goal is to provide
 sufficient details on what resources are available and also provide
 directions to get more information. Alternately, handouts might include
 facts such as growth in usage, numbers of training event attendees,
-and/or number of research grants and publications supported; these data
+and/or number of research grants and publications supported; this data
 can be used effectively to demonstrate the return on investment to
 administration and other funding stakeholders. In either case, these
 fact sheets should focus on multiple aspects of ACI, including human
