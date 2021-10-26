@@ -436,13 +436,13 @@ support in addition to physical resources.
 
 ## Use Case Stories
 
-Along with fact sheets, use cases are a very effective outreach tool.
+Along with fact sheets, use cases are an effective outreach tool.
 These can be short write-ups of success stories made possible due to the
-availability of ACI resources, especially very visible successes such as
+availability of ACI resources, especially highly visible successes such as
 those published in high-impact journals or one that have received
 substantial press coverage. Examples of ACI successes are especially
-useful when justification the implementation of an ACI resource. Where
-appropriate, success stories should also feature the role the
+useful when justifying the implementation of an ACI resource. Where
+appropriate, success stories should also feature the role of the
 Facilitators or other ACI staff and can be featured on the ACI
 organization website.
 
