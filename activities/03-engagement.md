@@ -122,7 +122,7 @@ researcher.
 
 For follow-on engagements the Facilitator may continue to meet in person
 or conduct subsequent meetings via web conferencing or by telephone.
-She/he will most likely be simultaneously corresponding via email and, 
+She/he will most likely be simultaneously corresponding via email, and 
 depending on what is discussed, it may be important to track these
 conversations as part of the official record (see "[Record Keeping of
 User Interactions](#records)"). 
