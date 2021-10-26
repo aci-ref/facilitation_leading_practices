@@ -257,7 +257,7 @@ about and, in doing so, we sometimes forget to listen.
 some of the policies and procedures of the institution, make a note
 without being negative or apologetic.
 
-5. **_Describe the resource_**s. Explain the relative scale of relevant
+5. **_Describe the resources_**. Explain the relative scale of relevant
 ACI resources and what that scale enables. Often researchers are so
 focused on past solutions and their current lab capabilities that they
 miss the positive impacts of scaling up.
