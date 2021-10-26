@@ -292,7 +292,7 @@ have questions that cannot be addressed within your team.
 
 ## Concluding the Meeting
 
-By the end of the meeting the Facilitator should have good comprehension
+By the end of the meeting, the Facilitator should have good comprehension
 of the researcher’s work and goals, and devise some form of an ACI plan,
 whether formal or informal. Prior to concluding this or any
 meeting, it is important to review the actionable items which, in this
@@ -307,7 +307,7 @@ expectations about future outcomes, so conclude with clear tasks and timelines. 
 	<li>"The system administrator is going to setup an account on the cluster
 by Thursday and will email you the account login information."  </li>
 	<li>"I’ll send you an email by the end of the day summarizing everything
-we’ve discussed and links to the web pages we went over today so you can
+we’ve discussed and links to the web pages we went over today, so you can
 get started as soon as you’re ready."</li>
 </ul>
 </div>
