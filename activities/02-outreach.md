@@ -423,8 +423,8 @@ outreach tools or as supplemental materials for other outreach efforts.
 When talking to potential or new users, such as new faculty candidates,
 these can detail the resources available and where to get more
 information in an easy-to-consume format. The goal is to provide
-sufficient details on what resources are available and also provide
-directions to get more information. Alternately, handouts might include
+sufficient details on what resources are available and directions
+to get more information. Alternately, handouts might include
 facts such as growth in usage, numbers of training event attendees,
 and/or number of research grants and publications supported; this data
 can be used effectively to demonstrate the return on investment to
