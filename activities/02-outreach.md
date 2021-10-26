@@ -456,13 +456,13 @@ Example page from an ACI resource newsletter.
 </div>
 
 Newsletters are another way to present multiple pieces and types of
-information in a succinct form. These can be produced on a regular
-schedule and distributed to the users and institutional leadership, via
+information in a succinct form. Newsletters can be produced on a regular
+schedule and distributed to the users and institutional leadership via
 email and/or printed copy. Facilitators can use the distribution of a
 printed newsletter as a reason to visit with existing users and
 administration. Any newsletters published should also be made available
 electronically on the ACI organization website. When providing content,
-keep in mind that with some topics it is often sufficient to provide a
+keep in mind that with some topics that it is often sufficient to provide a
 short blurb with a link to a location providing more detailed
 information, allowing the reader to make a decision if the topic is of
 interest or applicable to them. As an example,  in recent editions of
