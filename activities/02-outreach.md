@@ -504,9 +504,9 @@ tools such as Google Analytics can be utilized to assess online
 advertising methods used and the value of other online outreach content.
 
 Along with recording the metrics of the event, it is also important to
-get as sense of the effectiveness of the event, in order to determine
+get as sense of the effectiveness of the event in order to determine
 whether or not the outreach achieved the goal. There are a number of
-ways to measure the effectiveness, and these are not only applicable to
+ways to measure the effectiveness of the event, and these are not only applicable to
 outreach activities, but also to the similar *[Education and Training](../06-education)*
 activities of a Facilitator. One approach, most valid when the
 outreach activity is a presentation, is to give the attendees a short
@@ -522,8 +522,8 @@ experienced.
 Feedback on the effectiveness of an outreach activity can also be
 obtained by reaching out to one or more of the attendees of the
 activity, either with a written survey or in a one-on-one meeting. This
-type of feedback can often provide a higher level of detail, and can be
-done in an open-ended manner, with the responses to any single question
+type of feedback can often provide a higher level of detail and can be
+done in an open-ended manner, the responses to any single question
 leading to follow up questions and discussion.
 
 Finally, it is essential that the Facilitator take time to reflect upon
@@ -554,7 +554,7 @@ essential that a Facilitator takes the time to carefully consider the
 feedback and incorporate it in future outreach efforts, both in the
 planning of future events as well as in the content of the event.
 Furthermore, this information is valuable to exchange with others that
-share in the outreach efforts, so that the lessons learned by one
+share in the outreach efforts, so the lessons learned by one
 individual are not lost and can be used as a learning experience for
 multiple people.
 
