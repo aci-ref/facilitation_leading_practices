@@ -374,25 +374,25 @@ available.
 
 Presentations are generally the most commonly used approach in outreach
 at most institutions, as they are useful when presenting to a group and
-as they work in a number of different settings. Typically the larger the
+as they work in a number of different settings. Typically, the larger the
 audience and the more formal the event is, the more important it is to
 have a presentation prepared in advance. It is useful to have multiple
 sets of slides that cover different aspects of the ACI resource or
 organization, from which to choose depending on the focus of the
-presentation, the audience, and the time available. An outreach based
+presentation, the audience, and the time available. An outreach-based
 presentation can be used as a lead-in presentation in an educational and
 training presentation series, in order to introduce the audience to the
 resources that will be discussed in future presentations in the series.
-Alternately it can be a stand-alone presentation given to an group
+Alternately, it can be a stand-alone presentation given to an group
 interested in learning more about the ACI resources available and how
 they are used.
 
-There exist many on-line sources that can be accessed by googling topics
+There exist many online sources that can be accessed by googling topics
 such as "pointers for good presentations" or “pointers for effective
 presentations”. These focus on all aspects of doing a presentation, from
 determining the content, to creating the slides, to giving the
 presentation. These sources also include pointers on adjusting
-presentations to fit the venue, audience, and occasion, as well as tips
+presentations to fit the venue, audience, and occasion as well as tips
 on how to improve your skill as a presenter.
 
 <a name="posters"></a>
