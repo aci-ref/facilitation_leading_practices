@@ -269,8 +269,8 @@ user or user group.
 This method leverages an existing help-ticket management system to
 capture actionable tasks.  It should work well for a team that already
 uses it for task tracking.  Depending on features it may or may not be
-possible to have documents internal to the system but most systems
-support URLs in tasks description or comments so it would be possible to
+possible to have documents internal to the system. However, most systems
+support URLs in tasks description or comments, so it would be possible to
 link URL documents for google drive or some other cloud storage 
 system.  Most ticketing systems support tags and searching so tracking
 some activities and metrics would likely be simpler than the spreadsheet
