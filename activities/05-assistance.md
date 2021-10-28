@@ -369,8 +369,8 @@ solutions and recommendations.
 
 As previously stated, a key role of a Facilitator is to enable
 researchers to achieve more for themselves than they might have thought
-possible, and than might have been achievable with a purely help-desk,
-or reactive and issue-focused strategy of support. For the Facilitator,
+possible or what might have been achievable with a reactive, issue-focused strategy of support common to help-desk environments.
+For the Facilitator,
 this often means pursuing assistance that teaches a research to “fish
 for her/himself”. Rather than directly solving issues for the researcher
 or only suggesting easy to implement, short term solutions, Facilitators
