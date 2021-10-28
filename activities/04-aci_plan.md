@@ -342,7 +342,7 @@ least, sending periodic updates to communicate that work is
 on-going never hurts.
 
 A good time to follow up on completed ACI plans is around eight weeks
-after completion. At this point the researcher will have had time to
+after completion. At this point, the researcher will have had time to
 work with the solution and might have additional questions or thoughts. 
 After that, a follow-up every six months is a good idea as the PI’s
 research may have evolved or they may have started a new project.  Being
