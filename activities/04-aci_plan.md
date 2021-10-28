@@ -224,13 +224,13 @@ there are rarely built-in notifications or reminders.
 ### Redmine Method
 
 Redmine is a software project management tool with issue tracking,
-wikis, documents and organizing around projects and subjects built in. 
+wikis, documents and organizing around projects and subjects built-in. 
 The University of Hawaii has been using this method for organizing their
 ACI plans.  Individual projects can be created for the various research
 projects and the wiki can be used to capture the requirements and other
 items.  Tasks can be broken down into project issues and organized into
 particular milestones.  One of the advantages of Redmine is that it has
-user, role based access so a researcher can be given access to the
+user, role-based access so a researcher can be given access to the
 project to view progress (if they desire).  Time tracking is also
 supported, which is useful for seeing time invested on a project or
 necessary for chargeback to grants or billing in some cases.
