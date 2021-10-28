@@ -266,15 +266,15 @@ user or user group.
 
 ### Ticket System Method
  
-This method just leverages an existing help ticket management system to
+This method leverages an existing help-ticket management system to
 capture actionable tasks.  It should work well for a team that already
 uses it for task tracking.  Depending on features it may or may not be
 possible to have documents internal to the system but most systems
-support urls in tasks description or comments so it would be possible to
-link url documents for google drive or some other cloud storage document
+support URLs in tasks description or comments so it would be possible to
+link URL documents for google drive or some other cloud storage 
 system.  Most ticketing systems support tags and searching so tracking
 some activities and metrics would likely be simpler than the spreadsheet
-method - many systems do have built in reporting as well.  Some examples
+method - many systems do have built-in reporting as well.  Some examples
 of ticketing systems in use are JIRA, Redmine, Request Tracker and
 osTicket.
 
