@@ -288,7 +288,7 @@ Once an ACI plan is created and vetted by your team, you should present
 it to the researcher and solicit feedback.  With simple, informal
 plans, an email that outlines the tasks and responsible parties for
 each task is sufficient and the above tools will not be required.  For
-more complex projects a more formal presentation is necessary, ideally
+more complex projects, a more formal presentation is necessary, ideally
 in a meeting, where it is easier to capture additional questions and
 ideas from the researcher.  Organizing the ACI plan into a few slides or
 a single physical document for easy review is recommended for a formal
