@@ -253,10 +253,10 @@ Regardless of the assistance route, and in order to establish trust in
 the Facilitator, assistance communication should be clear to the
 researcher and be performed in a professional manner. Furthermore, as
 the primary goal of facilitation is to truly accelerate research,
-assistance strategies should clearly communicate approaches and
-solutions that will enhance each researcher’s capabilities in the use of
-ACI resources and empower the researcher to achieve more into the
-future. We discuss below these overall considerations, which apply to
+assistance strategies should clearly communicate approaches,
+enhance each researcher’s capabilities, 
+and empower the researcher to achieve more in the use of
+ACI resources into the future. We discuss below these overall considerations, which apply to
 multiple assistance contexts covered below,
 including "[Addressing User-reporting Issues](#issues)", 
 "[Assistance for Non-issue Support Requests](#non-issue)", and 
