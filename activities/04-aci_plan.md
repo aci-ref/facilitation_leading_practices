@@ -292,7 +292,7 @@ more complex projects, a more formal presentation is necessary, ideally
 in a meeting, where it is easier to capture additional questions and
 ideas from the researcher.  Organizing the ACI plan into a few slides or
 a single physical document for easy review is recommended for a formal
-presentation or, if you are using a project management system like
+presentation, or if you are using a project management system like
 Redmine, walking through the project’s roadmap and issues is prefered as
 it introduces the tool and interface to the researcher.  Be aware that
 the manner in which you introduce the ACI plan can impact your
