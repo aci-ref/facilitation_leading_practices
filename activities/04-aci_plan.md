@@ -31,7 +31,7 @@ will become apparent that multiple steps will be required to achieve
 their end goals.  To capture the requirements and major steps of taking
 the researcher from the engagement meeting to a realized research
 product that utilizes key cyberinfrastructure components for scaling and
-acceleration, an Advanced Cyberinfrastructure Plan (ACI plan) is
+acceleration, an ACI plan is
 necessary.  An ACI plan’s purpose is to capture all the general or
 specific goals and then break those down into actionable tasks and
 possibly a rough timeline.  The ACI plan can be thought of as a document
