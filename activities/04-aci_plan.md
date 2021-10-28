@@ -188,7 +188,7 @@ adverse to this, as some areas of expertise take years to acquire; it is
 also another way to scale your interactions, if the partner is willing
 and able to assist in a way that contributes to the end solution.  A
 good set of pointers and ideas for collaborating with other groups is
-outlined in the *Connections* chapter.  For ACI plan purposes keep in
+outlined in the *Connections* chapter.  For ACI plan purposes, keep in
 mind the groups that you might frequently need to work with work to
 establish and maintain those interactions/partnerships.
 
