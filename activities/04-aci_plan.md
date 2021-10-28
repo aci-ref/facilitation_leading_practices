@@ -145,7 +145,7 @@ the ability to move around very large datasets in a reasonable amount of
 time is a hurdle that many of the current ACI-REFs have run up against. 
 Often, working with IT professionals at our institutions, or at the
 institution with whom the researcher is collaborating, is the proper
-route to resolution.  So keep in mind some of the basic network
+route to resolution, so keep in mind some of the basic network
 bottlenecks, but be aware that there may be technical issues you are
 unaware of if you are not tied directly into your IT department; a
 discussion with them should be a priority when dealing with these issues
