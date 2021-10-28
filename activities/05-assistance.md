@@ -38,7 +38,7 @@ issues. Leveraging external technical expertise.*
 
 Assisting researchers as they actively use ACI is a key component of
 facilitation, especially if the Facilitator is directly associated with
-one or more specific ACI services, or when researchers require outside
+one or more specific ACI services or when researchers require outside
 resources. Whether researchers are already leveraging an ACI resource or
 have just gained access, they should be be able to easily obtain ongoing
 assistance from Facilitators and other ACI support staff with respect
