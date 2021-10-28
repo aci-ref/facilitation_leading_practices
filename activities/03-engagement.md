@@ -448,7 +448,7 @@ return on investment for each part of the process.
 The current ACI-REF institutions differ on implementation of engagement
 and user tracking, but there are significant commonalities in features.
 Leveraging existing tools, especially for assistance requests across IT
-teams for resources like networking and storage is recommended to reduce
+teams for resources like networking and storage, is recommended to reduce
 complexity and infrastructure (see the chapter on [Assistance](../05-assistance) for
 additional ideas and information). Also, recognize that some of these
 tools may be managed outside of your group, as is often common when
