@@ -302,7 +302,7 @@ follow typical practices for professional email communication, including
 the use of greetings and introducing your name and role in the email
 body and/or closing signature. Good examples of this are shown below,
 under the topics of “[Addressing User-Reported Issues](#issues)” and 
-“[Assistancefor Non-Issue Support Requests](#non-issue)”. Even for messages 
+“[Assistance for Non-Issue Support Requests](#non-issue)”. Even for messages 
 sent via email-based
 issue “ticket” systems, where there may be a tendency to leave out
 greetings and closing statements, it is important to treat communication
