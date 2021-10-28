@@ -214,11 +214,11 @@ for a group. Each plan may have it’s own sheet, with the goals at the
 top and the rows for tasks, which may be checked off or colored to
 indicate some level of progress or completeness.  The benefit of using a
 shared document is that it is lightweight and easily accessible to
-anyone; and hosted sites require no local infrastructure for support.
+anyone, and hosted sites require no local infrastructure for support.
 Additionally, these documents can be accessed via URLs from other
-documents.  There are shortcomings of this method, however: Documents
+documents.  There are shortcomings of this method, however: first, documents
 can become unwieldy if you have many plans or researchers contributing;
-searching can be a challenge, as can harvesting metrics and trends; and
+second, searching can be a challenge, as can harvesting metrics and trends; third,
 there are rarely built-in notifications or reminders.
 
 ### Redmine Method
