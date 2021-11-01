@@ -336,6 +336,13 @@ Other specific guidelines for clear wording in any communication context are:
 {::options parse_block_html="true" /}
 <div class="bullet-box">
 <ul class="bullet-list-square">
+* item 1
+* [Educating and Training Researchers](../06-education)
+</ul>
+</div>
+
+<div class="bullet-box">
+<ul class="bullet-list-square">
 <li> Describe concepts succinctly and in the simplest terms possible. It’s 
 often useful to re-read and consolidate or shorten written information before sending. </li>
 <li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
