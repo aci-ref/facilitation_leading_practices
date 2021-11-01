@@ -344,7 +344,7 @@ Other specific guidelines for clear wording in any communication context are:
         that is familiar to the researcher. For example, use “program” or “software” if 
         the word “executable” is less familiar. </li>
         <li> Avoid overwhelming the researcher with too much new information at once. 
-        Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, <a href="#fnref:4">,
+        Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, <a href="#fnref:4"><sup>3</sup></a>,
          [^7], and [^8] for more 
          discussion on concept/cognitive overload. </li>
         <li> When introducing new terminology and ideas, as necessary define terms and 
