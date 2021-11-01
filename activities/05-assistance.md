@@ -386,7 +386,7 @@ number of specific strategies that effective Facilitators should
 implement. Firstly, it is important to consider various options relative
 to both the researcher’s immediate needs and long-term goals.
 Additionally, the Facilitator should explain reasons for recommending a
-specific solution over others, especially when an easier, but less
+specific solution over others, especially when an easier but less
 impactful solution may already be apparent. Facilitators should also
 explain their level of confidence in the researcher’s ability to
 implement various approaches or solutions, potentially based upon
