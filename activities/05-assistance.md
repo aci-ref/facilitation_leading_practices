@@ -335,27 +335,27 @@ Other specific guidelines for clear wording in any communication context are:
 
 {::options parse_block_html="true" /}
 <div class="bullet-box">
-    <ul class="bullet-list-square">
-        <li> Describe concepts succinctly and in the simplest terms possible. It’s 
-        often useful to re-read and consolidate or shorten written information before sending. </li>
-        <li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
-        “your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
-        as possible (e.g. “it”, “they”, “them”). </li>
-        <li> Avoid jargon specific to an expert understanding and strive to find terminology 
-        that is familiar to the researcher. For example, use “program” or “software” if 
-        the word “executable” is less familiar. </li>
-        <li> Avoid overwhelming the researcher with too much new information at once. 
-        Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, <a href="#fn:4"><sup>3</sup></a>,
-         [^7], and [^8] for more 
-         discussion on concept/cognitive overload. </li>
-        <li> When introducing new terminology and ideas, as necessary define terms and 
-        provide distinction from other concepts. For example, “the submit file, 
-        which will be separate from the BLAST alignment program you wish to run 
-        within each job ...”. </li>
-        <li> Minimize the use of acronyms by limiting these to terms that are: (1)
-         already familiar to the researcher, and/or (2) have been sufficiently defined 
-         and used previously in non-acronym forms. </li>
-    </ul>
+<ul class="bullet-list-square">
+<li> Describe concepts succinctly and in the simplest terms possible. It’s 
+often useful to re-read and consolidate or shorten written information before sending. </li>
+<li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
+“your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
+as possible (e.g. “it”, “they”, “them”). </li>
+<li> Avoid jargon specific to an expert understanding and strive to find terminology 
+that is familiar to the researcher. For example, use “program” or “software” if 
+the word “executable” is less familiar. </li>
+<li> Avoid overwhelming the researcher with too much new information at once. 
+Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, <a href="#fn:4"><sup>3</sup></a>,
+[^7], and [^8] for more 
+discussion on concept/cognitive overload. </li>
+<li> When introducing new terminology and ideas, as necessary define terms and 
+provide distinction from other concepts. For example, “the submit file, 
+which will be separate from the BLAST alignment program you wish to run 
+within each job ...”. </li>
+<li> Minimize the use of acronyms by limiting these to terms that are: (1)
+already familiar to the researcher, and/or (2) have been sufficiently defined 
+and used previously in non-acronym forms. </li>
+</ul>
 </div>
 
 
