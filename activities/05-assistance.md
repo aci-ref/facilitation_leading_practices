@@ -333,13 +333,14 @@ understanding and set of terminology (see [^4] and
 
 Other specific guidelines for clear wording in any communication context are:
 
-{::options parse_block_html="true" /}
 <div class="bullet-box">
+{::options parse_block_html="true" /}
 <ul class="bullet-list-square">
 * item 1
 * [Educating and Training Researchers](../06-education)
 </ul>
 </div>
+
 
 <div class="bullet-box">
 <ul class="bullet-list-square">
