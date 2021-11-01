@@ -356,6 +356,7 @@ Other specific guidelines for clear wording in any communication context are:
          and used previously in non-acronym forms. </li>
     </ul>
 </div>
+{::options parse_block_html="true" /}
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
