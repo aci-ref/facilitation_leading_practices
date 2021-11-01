@@ -373,10 +373,10 @@ possible or what might have been achievable with a reactive, issue-focused strat
 For the Facilitator,
 this often means pursuing assistance that teaches a research to “fish
 for her/himself”. Rather than directly solving issues for the researcher
-or only suggesting easy to implement, short term solutions, Facilitators
+or only suggesting easy to implement, short-term solutions, Facilitators
 should strive to identify and recommend solutions that enable
 researchers to accomplish more and to imagine greater research
-possibilities, in the long term. The communication of solutions should
+possibilities, in the long-term. The communication of solutions should
 be presented, as much as possible, as a form of guided
 instruction.[^9]
 
