@@ -200,7 +200,7 @@ materials (e.g., guides for the unix shell, text editors, or common
 command-line file transfer tools). For in-house materials, it is often
 important to point to such external references when introducing a
 specific skill within a greater step-by-step example. However, there are
-certainly instances when some amount of generalizable information will
+certainly instances when generalizable information will
 be most effective when actually embedded within Facilitator-created
 materials instead of simply pointing to external sources and
 drawing the user’s attention away from the overall workflow.
