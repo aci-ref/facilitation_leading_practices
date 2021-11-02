@@ -335,14 +335,6 @@ Other specific guidelines for clear wording in any communication context are:
 
 <div class="bullet-box">
 <ul class="bullet-list-square">
-* item 1
-* [Educating and Training Researchers](../06-education)
-</ul>
-</div>
-{::options parse_block_html="true" /}
-
-<div class="bullet-box">
-<ul class="bullet-list-square">
 <li> Describe concepts succinctly and in the simplest terms possible. It’s 
 often useful to re-read and consolidate or shorten written information before sending. </li>
 <li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
@@ -351,8 +343,9 @@ as possible (e.g. “it”, “they”, “them”). </li>
 <li> Avoid jargon specific to an expert understanding and strive to find terminology 
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar. </li>
-<li> Avoid overwhelming the researcher with too much new information at once. 
-Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, <a href="#fn:4"><sup>3</sup></a>,
+<!-- the markdown=1 attribute seems to require the tag and its content to start in column 1 -->
+<li markdown="1"> Avoid overwhelming the researcher with too much new information at once. 
+Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
 [^7], and [^8] for more 
 discussion on concept/cognitive overload. </li>
 <li> When introducing new terminology and ideas, as necessary define terms and 
