@@ -46,9 +46,9 @@ a minimum each month, is highly recommended.
 In addition to seeking information to enhance one's own knowledge of
 ACI, facilitators should also look for existing resources and materials
 that can be used by their research user community. Examples of these
-kinds of materials are listed in the following sections, and may overlap
+kinds of materials are listed in the following sections and may overlap
 with the tutorials and documents listed as resources for facilitator
-training
+training.
 
 The rest of this chapter discusses resource types and specific
 strategies for staying current with ACI resources as a Facilitator.
