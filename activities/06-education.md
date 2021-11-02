@@ -562,7 +562,6 @@ Jump to: [top](#toc)
             <li> One-on-One Training </li>
             <li> Videos </li>
         </ul>	
-        <li class="list-checkbox">bullet pt 3</li>          
     </ul> 
 </div>
 
