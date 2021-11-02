@@ -633,7 +633,8 @@ can be found on the web with common practices for generating effective
 FAQs, and therefore will not be cited here. Generally, FAQs should:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-<li>include questions that *are* frequently asked</li>
+<li markdown="span">include questions that *are* frequently asked
+</li>
 <li>be organized into groupings of similar concepts, in order to evoke
 high-level conceptual frameworks</li>
 <li>include the most essential and simple questions first, before listing
