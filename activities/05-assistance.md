@@ -576,7 +576,7 @@ ideas would apply within the context of other assistance route(s).
 
 After receiving a non-issue question from a researcher, it is important
 to fully understand the researcher’s intent and the scope of information
-they’re seeking, within the context of what the Facilitator already
+they’re seeking within the context of what the Facilitator already
 knows about the researcher’s relevant ACI knowledge, as is demonstrated
 in the following exchange:
 
