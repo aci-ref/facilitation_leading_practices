@@ -431,7 +431,7 @@ reported problem by asking any clarifying questions and by stating the
 problem back to the researcher before proceeding further. This step will
 confirm the issue with the researcher and may train the researcher to
 provide pertinent details of what they observe early on in future help
-requests. If multiple problems were reported, or the Facilitator
+requests. If multiple problems were reported or the Facilitator
 perceives that there may be more than one issue at play, these should be
 stated and addressed, separately.
 
