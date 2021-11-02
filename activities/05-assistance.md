@@ -622,7 +622,7 @@ Example 2: Email from Researcher regarding the use of research computing resourc
 
 In some cases, the original question(s) may be limited by the
 researcher’s current knowledge of ACI such that the researcher is
-actually seeking an answer to a slightly different question; or such
+actually seeking an answer to a slightly different question or such
 that the researcher’s goals can be best addressed by a different
 solution than originally suggested. Additionally, the Facilitator may be
 able to anticipate and answer other questions in order to reduce the
