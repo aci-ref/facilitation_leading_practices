@@ -530,7 +530,7 @@ documentation for the ACI resource.
 It should be made clear to users that
 this location must be consulted before request for assistance,
 but these issues may be reported in assistance routes nevertheless.
-Other issues may still require examination on a case-by-case basis,
+Other issues may still require examination on a case-by-case basis
 but may need only minor “tweaks” for each user.
 It is important that the Facilitator identifies such recurring issues,
 and prepares a “template” communication that can be reused each time.
