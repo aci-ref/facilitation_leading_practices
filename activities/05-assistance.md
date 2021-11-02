@@ -565,8 +565,8 @@ information exchange may be appropriate, as demonstrated in the below
 steps, though the overall process is still very similar in some ways to
 issue resolution. Some non-issue questions may actually lead to a true
 engagement, where a more complex ACI plan can be discussed. However, the
-progression to deciding an engagement is necessary would still follow
-the first few steps below, and according to practices described in
+progression to deciding if an engagement is necessary would still follow
+the first few steps below and according to practices described in
 *[Engaging Researchers](03-engagement)*. As a clear demonstration, we provide two simple
 examples of email communication for non-issue requests, though the same
 ideas would apply within the context of other assistance route(s).
