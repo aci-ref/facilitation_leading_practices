@@ -96,7 +96,7 @@ resources</li>
 Many of these different types of learning materials and opportunities
 are described later in this chapter, drawing on the "Overall
 Considerations" just below. We additionally cover general considerations
-for composing and delivering training materials, and for incorporating
+for composing and delivering training materials and for incorporating
 external materials into an overall structure for supporting the learning
 needs of users of an ACI resource.
 
