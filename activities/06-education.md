@@ -202,8 +202,8 @@ important to point to such external references when introducing a
 specific skill within a greater step-by-step example. However, there are
 certainly instances when some amount of generalizable information will
 be most effective when actually embedded within Facilitator-created
-materials, instead of simply pointing to external sources, and in order
-to avoid drawing the user’s attention away from the overall workflow.
+materials instead of simply pointing to external sources and
+drawing the user’s attention away from the overall workflow.
 For example, specific illustrative ‘tar’ commands might be included in a
 guide for transferring large files between specific remote systems,
 rather than simply stating that files should be tar’d and pointing to a
