@@ -543,11 +543,11 @@ Jump to: [top](#toc)
 <h1>Assistance for Non-Issue Support Requests</h1>
 
 Often, users may contact Facilitators to discuss questions about ACI
-options, capabilities, and modes of use. Typically these questions
+options, capabilities, and modes of use. Typically, these questions
 differ from assisting with issues in that the user hasn’t encountered a
-specific difficulty in using an ACI system, but may instead have more
-general, proactive questions that can be addressed with targeted
-clarification and guidance, or for which existing education and training
+specific difficulty in using an ACI system. Instead, these questions are more
+general and more proactive. These questions can be addressed with targeted
+clarification and guidance or for which existing education and training
 materials will be sufficient.
 
 Examples of non-issue requests can include: 
