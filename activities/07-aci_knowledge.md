@@ -78,16 +78,16 @@ trainings more beneficial for researchers.</li>
 presentation skills provides benefits not just in training but at
 conferences and over venues where facilitators need to communicate.</li>
 	<li>Grant writing: Many facilitators work in research institutions where
-grant funding is common so learning or enhancing grant writing skills is
+grant funding is common, so learning or enhancing grant writing skills is
 important.</li>
 	<li>ACI Software: Enhancing skills with existing software tools at the
 institution or learning how to use new tools is important in supporting
 and serving the research community in their use of similar tools.</li>
 	<li>ACI Hardware: Some facilitators work with ACI hardware for compute,
-storage and visualization so it is important to keep those skills and
+storage and visualization, so it is important to keep those skills and
 certifications current.</li>
 	<li>ACI System Management: In keeping the ACI resources healthy and
-functional there are a number of tools that are specific to making this
+functional, there are a number of tools that are specific to making this
 more manageable and efficient.</li>
 </ul>
 </div>
