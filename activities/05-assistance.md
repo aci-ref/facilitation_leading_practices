@@ -343,8 +343,8 @@ as possible (e.g. “it”, “they”, “them”). </li>
 <li> Avoid jargon specific to an expert understanding and strive to find terminology 
 that is familiar to the researcher. For example, use “program” or “software” if 
 the word “executable” is less familiar. </li>
-<!-- the markdown=1 attribute seems to require the tag and its content to start in column 1 and that the closing tag must go on its own line. -->
-<li markdown="1"> Avoid overwhelming the researcher with too much new information at once. 
+<!-- the markdown=span, which span prevents unneeded paragraph breaks, attribute seems to require the tag and its content to start in column 1 and that the closing tag must go on its own line. -->
+<li markdown="span"> Avoid overwhelming the researcher with too much new information at once. 
 Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
 [^7], and [^8] for more 
 discussion on concept/cognitive overload. 
