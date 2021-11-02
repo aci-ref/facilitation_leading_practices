@@ -726,7 +726,7 @@ As compared to informational talks, *training* in a classroom or similar
 in-person format often takes the form of *tutorials*. These tutorials
 may be introduced with short or long periods of informational talks in
 some cases. (Software Carpentry workshops and curriculum, for example,
-focus maining on hands-on guided practice with bits of explanation prose
+focus mainly on hands-on guided practice with bits of explanation prose
 along the way.) Importantly, one-to-many training materials can often
 serve double-duty for in-person and self-help learning, if made publicly
 available beyond their use at in-person learning events.
