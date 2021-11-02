@@ -221,6 +221,8 @@ Carpentry</a></li>
 <li>institutionally-supported proprietary training services, like
 Lynda.com</li>
 <li>Wikipedia and other online information aggregators</li>
+<li>Question and Answer websites (e.g. Stack Exchange Network)</li>
+<li>Forums and other Community Driven Developments (e.g. mailing lists, Slack teams, etc.)  </li>
 <li>books (where appropriate)</li>
 <li>faculty-developed, university-sponsored, or professional society
 courses</li>
