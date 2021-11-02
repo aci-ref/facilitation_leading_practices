@@ -474,27 +474,24 @@ communication with a researcher:
 ~~~
 ------------------------ 
 Hello, 
-I tried to use ‘scp’ to copy data to my 
-user directory on host1.org.univ.edu, but I get a “Permission denied”
-error.  Is something wrong with my account? 
+I tried to use ‘scp’ to copy data to my user directory on host1.org.univ.edu,
+but I get a “Permission denied” error. Is something wrong with my account? 
 -John Scientist
 ------------------------ 
 Hi John, 
 
-Thank you for writing to us with this
-question. In order to understand why your scp command isn’t working, can
-you send me the exact command you’re using and the terminal output when
-you run the command? From what I can tell, there doesn’t seem to be
-anything wrong with your account, but we’ll figure out what’s not
-working.
+Thank you for writing to us with this question. In order to understand why
+your scp command isn’t working, can you send me the exact command you’re
+using and the terminal output when you run the command? From what I can
+tell, there doesn’t seem to be anything wrong with your account, 
+but we’ll figure out what’s not working.
 
 Thank you, 
 Michelle Facilitator 
 Research Computing Facilitator, CHTC
 ------------------------- 
 Hi Michelle, 
-Here are the lines from my
-terminal: 
+Here are the lines from my terminal: 
 JohnDesktop:~ JohnSl$ scp myfile host1.org.univ.edu:/home/jscientist 
 jscientist@host1.org.univ.edu's password: 
 scp: /home/jscientist/myfile: Permission denied
@@ -503,13 +500,12 @@ scp: /home/jscientist/myfile: Permission denied
 ------------------------ 
 Hi John, 
 
-Ah. I think I see what’s wrong.
-When you use ‘scp’ from your desktop, the ‘scp’ program assumes that
-you’ll be connecting as your Desktop username (“JohnS”) unless you
-specify that your username on the server is different.  Our own guide
-for file transfer has some examples explaining this behavior and other
-scp features (org.univ.edu/guides/filetransfer.html), and there is even
-more information online if you Google something like “scp guides”.
+Ah. I think I see what’s wrong. When you use ‘scp’ from your desktop, the
+‘scp’ program assumes that you’ll be connecting as your Desktop username
+(“JohnS”) unless you specify that your username on the server is different.
+Our own guide for file transfer has some examples explaining this behavior
+and other scp features (org.univ.edu/guides/filetransfer.html), and there is
+even more information online if you Google something like “scp guides”.
 
 Here’s a command that should work for you: 
 scp myfile jscientist@host1.org.univ.edu:/home/jscientist
