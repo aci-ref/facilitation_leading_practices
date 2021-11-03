@@ -113,9 +113,9 @@ workshops in conference settings and are  most useful when the vendor
 has a worthwhile training module that enhances a facilitator’s
 understanding of how to utilize the product to accelerate or advance
 research and is relevant to the targeted community. If there is already
-a relationship with a vendor, for a product that the institution has
-acquired or that the research community is  using,  or if the
-institution plans to make new or additional purchases, the Facilitator
+a relationship with a vendor for a product that the institution has
+acquired, that the research community of the institution is  using, or that the
+institution plans to make new or additional purchases then the Facilitator
 can usually work with the vendor to produce a quality training
 opportunity.
 
