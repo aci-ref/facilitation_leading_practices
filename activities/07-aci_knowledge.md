@@ -121,9 +121,9 @@ opportunity.
 
 In addition to trainings, vendors can provide information about upcoming
 products that may offer a glimpse of the direction the industry is
-heading, for similar products and services. Having a good working
+heading for similar products and services. Having a good working
 relationship with vendor representatives can keep Facilitators informed
-about current  technology, in addition to providing existing product
+about current  technology in addition to providing existing product
 updates and improvements.  This usually requires no more than a simple
 subscription to a mailing list or company newsletter. Information can
 also be directly solicited from vendors to enhance a facilitator’s
