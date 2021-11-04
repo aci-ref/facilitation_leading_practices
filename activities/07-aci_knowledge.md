@@ -136,7 +136,7 @@ potential offerings at an ACI site.
 ## Conferences
 
 Academic conferences are an important venue for networking and knowledge
-exchange among researchers and other domain experts. . They are often
+exchange among researchers and other domain experts. They are often
 the place where cutting edge ACI is presented and published in the
 conference proceedings. There is great opportunity for learning at these
 events, both interpersonally and professionally, and ideas can often be
