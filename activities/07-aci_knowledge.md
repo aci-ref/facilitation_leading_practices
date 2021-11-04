@@ -149,8 +149,8 @@ if, for example, the Facilitator’s institution has  an exhibition booth.
 
 Attending conference presentations is a good way to learn and improve
 skills and knowledge in a new field or area of interest. It is a good
-opportunity to engage with the work of others — to ask questions and to
-talk with presenters, or participants after a panel. Like any other
+opportunity to engage with the work of others, to ask questions, and to
+talk with presenters or participants after a panel. Like any other
 profession, interpersonal networking is important for ACI facilitation.
 This is also a potential avenue for making contacts that may lead, for
 example, to being invited to join collective research projects and
