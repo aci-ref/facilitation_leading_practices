@@ -190,7 +190,7 @@ well as the discussions amongst peers when considering what to attend.
 Some of the more impactful professional development and training
 opportunities available at conferences can also occur during the days
 preceding the conference, as half or whole day tutorial and workshop
-events,which often have a broader focus than the single topic short
+events, which often have a broader focus than the single topic short
 sessions of the technical conference.
 
 <a name="online"></a>
