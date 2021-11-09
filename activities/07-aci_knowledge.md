@@ -294,7 +294,7 @@ include:
 Before social media, professional organizations commonly provided an
 outlet for networking with colleagues and learning of updates and the
 latest trends. Most organizations have transitioned to social media and
-may have a presence on numerous social media platforms, but still
+may have a presence on numerous social media platforms but still
 maintain their own sites and offline presence as well. There can be
 additional benefits to becoming a member of these sites, as well as
 opportunities for participating in committees and governance groups.
