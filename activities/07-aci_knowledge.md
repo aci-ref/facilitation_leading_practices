@@ -235,7 +235,7 @@ grow on the http://aciref.org website.
 ### On-Demand Tutorials:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Open Science Grid User School - <a href="http://opensciencegrid.org/UserSchool">http://opensciencegrid.org/UserSchool</a></li>
+	<li>Open Science Grid Virtual School - <a href="https://opensciencegrid.org/events/OSG-Virtual-School/">https://opensciencegrid.org/events/OSG-Virtual-School</a></li>
 	<li>OSG Connect Helpdesk - <a href="https://support.opensciencegrid.org/support/home">https://support.opensciencegrid.org/support/home</a></li>
 	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php">https://www.citutor.org/browse.php</a></li>
 	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics">https://cvw.cac.cornell.edu/topics</a></li>
