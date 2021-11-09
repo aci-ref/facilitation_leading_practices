@@ -361,7 +361,7 @@ this section and on the ACI-REF website.
 	<li>Dell HPC Blog - <a href="http://en.community.dell.com/techcenter/high-performance-computing/">http://en.community.dell.com/techcenter/high-performance-computing/</a></li>
 	<li>Cisco HPC Blog - <a href="http://blogs.cisco.com/tag/hpc">http://blogs.cisco.com/tag/hpc</a></li>
 	<li>Puget Systems HPC Blog - <a href="https://www.pugetsystems.com/all_hpc.php">https://www.pugetsystems.com/all_hpc.php</a></li>
-	<li>Mellanox HPC Blog - <a href="http://www.mellanox.com/blog/category/hpc/">http://www.mellanox.com/blog/category/hpc/</a></li>
+	<li>NVIDIA HPC-tagged Blogs - <a href="https://developer.nvidia.com/blog?tags=hpc">https://developer.nvidia.com/blog?tags=hpc</a></li>
 	<li>Microsoft HPC Blog - <a href="https://blogs.technet.microsoft.com/windowshpc/">https://blogs.technet.microsoft.com/windowshpc/</a></li>
     </ul>
 </div>
