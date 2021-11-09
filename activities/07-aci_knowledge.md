@@ -248,7 +248,7 @@ grow on the http://aciref.org website.
 <a href="https://reference.wolfram.com/language/guide/GPUComputing.html">https://reference.wolfram.com/language/guide/GPUComputing.html</a></li>
 	<li>Wolfram Training: Parallel Computing -
 <a href="https://reference.wolfram.com/language/guide/ParallelComputing.html">https://reference.wolfram.com/language/guide/ParallelComputing.html</a></li>
-	<li>PRACE Tutorials - <a href="http://www.training.prace-ri.eu/tutorials/index.html">http://www.training.prace-ri.eu/tutorials/index.html</a></li>
+	<li>PRACE Tutorials - <a href="https://training.prace-ri.eu/index.php/prace-tutorials/">https://training.prace-ri.eu/index.php/prace-tutorials/</a></li>
 	<li>LLNL HPC Trainings - <a href="https://computing.llnl.gov/?set=training&page=index">https://computing.llnl.gov/?set=training&page=index</a></li>
 	<li>NCI Trainings - <a href="http://nci.org.au/user-support/training/">http://nci.org.au/user-support/training/</a></li>
 	<li>SCAI Online Training - <a href="http://www.hpc.cineca.it/content/online-training">http://www.hpc.cineca.it/content/online-training</a></li>
