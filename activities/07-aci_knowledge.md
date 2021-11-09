@@ -228,7 +228,6 @@ grow on the http://aciref.org website.
 ### Listing of Training Resources: 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>ACI-REF -<a href="https://aciref.org/research-computing/learning-resources/">https://aciref.org/research-computing/learning-resources/</a></li>
 	<li>XSEDE - <a href="https://portal.xsede.org/web/xup/online-training">https://portal.xsede.org/web/xup/online-training</a></li>
   </ul>
 </div>
