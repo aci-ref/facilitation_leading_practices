@@ -205,7 +205,7 @@ materials, there may be online video tutorials and self-paced trainings
 published by various ACI experts that may guide facilitators to new and
 popular areas of interest. Furthermore, these online resources can be a
 starting point for finding collaborators in some of the emerging ACI
-communities, and for learning about relevant face-to-face workshops and
+communities and for learning about relevant face-to-face workshops and
 conference opportunities.
 
 The rest of this section provides the main categories of online
