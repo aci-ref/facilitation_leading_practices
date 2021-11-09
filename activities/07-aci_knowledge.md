@@ -284,7 +284,6 @@ at professional and research communications. Examples of LinkedIn groups
 include:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing">https://www.linkedin.com/topic/high-performance-computing</a></li>
     <li>Cloud Computing -  <a href="https://www.linkedin.com/groups/61513/profile">https://www.linkedin.com/groups/61513/profile</a></li>
     <li>Women in HPC - <a href="https://www.linkedin.com/groups/8105215/profile">https://www.linkedin.com/groups/8105215/profile</a></li>
 	<li>Multicore and Parallel Computing -
