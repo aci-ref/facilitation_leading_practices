@@ -314,7 +314,7 @@ facilitators find useful are listed below:
 </div>
 The examples provided for social media and organizations are not
 exhaustive. They are intended to provide concrete examples that can be
-used to gauge the utility of further and future sites, as they arise or
+used to gauge the utility of further and future sites as they arise or
 are discovered.
 
 <a name="reading"></a>
