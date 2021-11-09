@@ -275,8 +275,8 @@ relevant.
 Social media is a popular way to keep up with technological trends, as
 news is readily posted by information providers. There are pros and cons
 to its use: Its immediacy is beneficial in fast-paced arenas like
-research and technology, however, the content is customarily not peer
-reviewed, nor is there a guarantee of quality. With those caveats in
+research and technology; however, the content is customarily not peer
+reviewed nor is there a guarantee of quality. With those caveats in
 mind, facilitators can begin reaping the benefits of social networks by
 joining various sites such as LinkedIn or Researchgate, which are aimed
 at professional and research communications. Examples of LinkedIn groups
