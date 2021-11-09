@@ -244,8 +244,10 @@ grow on the http://aciref.org website.
 	<li>HPC University - <a href="http://hpcuniversity.org/trainingMaterials/">http://hpcuniversity.org/trainingMaterials/</a></li>
 	<li>ARCHER Virtual Tutorials -
 <a href="https://www.archer.ac.uk/training/virtual/index.php">https://www.archer.ac.uk/training/virtual/index.php</a></li>
-	<li>Wolfram Training: HPC Courses -
-<a href="https://www.wolfram.com/training/courses/hpc/">https://www.wolfram.com/training/courses/hpc/</a></li>
+	<li>Wolfram Training: GPU Computing -
+<a href="https://reference.wolfram.com/language/guide/GPUComputing.html">https://reference.wolfram.com/language/guide/GPUComputing.html</a></li>
+	<li>Wolfram Training: Parallel Computing -
+<a href="https://reference.wolfram.com/language/guide/ParallelComputing.html">https://reference.wolfram.com/language/guide/ParallelComputing.html</a></li>
 	<li>PRACE Tutorials - <a href="http://www.training.prace-ri.eu/tutorials/index.html">http://www.training.prace-ri.eu/tutorials/index.html</a></li>
 	<li>LLNL HPC Trainings - <a href="https://computing.llnl.gov/?set=training&page=index">https://computing.llnl.gov/?set=training&page=index</a></li>
 	<li>NCI Trainings - <a href="http://nci.org.au/user-support/training/">http://nci.org.au/user-support/training/</a></li>
