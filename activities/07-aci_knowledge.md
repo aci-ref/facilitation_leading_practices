@@ -143,8 +143,8 @@ events, both interpersonally and professionally, and ideas can often be
 brought back to the Facilitator’s institution and applied in their own
 work and facilitation. In addition to meeting and learning from others,
 conferences provide  many opportunities for sharing a Facilitator’s own
-experiences and research either by submitting a poster or presentation
-abstract or by contributing to an organizational presence
+experiences and research either by submitting a poster, presentation
+abstract, or by contributing to an organizational presence
 if, for example, the Facilitator’s institution has  an exhibition booth.
 
 Attending conference presentations is a good way to learn and improve
