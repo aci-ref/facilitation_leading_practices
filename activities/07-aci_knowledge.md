@@ -420,7 +420,7 @@ networks can also be internal to an institution and the facilitator
 should inquire about local groups or initiatives for faculty, staff and
 graduate student researchers. These types of networks offer
 institutional knowledge exchange, both historical and contemporary,
-which can be useful technically, but are especially helpful for
+which can not only be useful technically, but also are especially helpful for
 understanding the institutional atmosphere.  In addition to these more
 formal networking opportunities, there may also be less formal intra- or
 inter-departmental events such as luncheon meetings with colleagues, and
