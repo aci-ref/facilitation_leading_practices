@@ -32,7 +32,7 @@ matchmaking between users and ACI resource providers, where appropriate.*
 A facilitator is one of the few individuals with a broad awareness of
 research efforts across their user or ‘client’ base. As a result,
 facilitators are not only poised to identify and liaise potential
-researcher connections and collaborations, but should feel obligated to
+researcher connections and collaborations but should feel obligated to
 do so. In this chapter, we discuss overall strategies for realizing
 common research interests and practices among researchers, as well as
 specific types of researcher-to-researcher interactions that a
