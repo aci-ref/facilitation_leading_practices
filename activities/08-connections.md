@@ -123,7 +123,7 @@ Jump to: [top](#toc)
 Opportunities to connect
 researchers pursuing complementary or related research problems will
 perhaps be the most obvious. For example, a single campus might have
-medical and psychology researchers studying aspects of brain function,
+medical and psychology researchers studying aspects of brain function
 and engineers developing new or existing imaging technologies and
 analyses. While researchers with obviously overlapping research pursuits
 are likely to already know of one another, they may not always be aware
