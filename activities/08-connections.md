@@ -211,7 +211,7 @@ that are heavily matched and integrated with research processes. In the
 chapter on *[Interfacing with Other ACI Personnel](../09-interface)*, we will discuss
 additional strategies for networking with individuals in other ACI and
 IT positions to enhance the ability of all individuals to meet
-researcher needs, and to enhance the professional development of the
+researcher needs and to enhance the professional development of the
 Facilitator.
 
 
