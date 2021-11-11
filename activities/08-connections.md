@@ -263,7 +263,7 @@ communicate and learn from each other even better than from the
 facilitator (see discussions and references on peer-learning in
 *[Education and Training of Researchers](../06-education/)*). To some extent, knowledge
 exchange between peers can be a crucial component of the assistance and
-education of individual researchers, and in a way that scales beyond the
+education of individual researchers and in a way that scales beyond the
 facilitator’s own efforts.
 
 
