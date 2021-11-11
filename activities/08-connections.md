@@ -191,7 +191,7 @@ sources. For example, researchers in the humanities, geology, and social
 sciences (psychology, communication, etc.) may be able to share
 practices or even costs for obtaining and analyzing data from social
 media (e.g. Twitter). Similar opportunities may exist across research
-domains that rely on global information systems (GIS) data, such they
+domains that rely on global information systems (GIS) data, such that
 they will benefit from sharing access, analysis, and visualization
 practices. Facilitators might even help to coordinate the support of a
 single, shared repository of large datasets, perhaps on an ACI resource
