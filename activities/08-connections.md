@@ -273,7 +273,7 @@ a formal introduction. Depending on the context, the facilitator might
 even join a first meeting or remain CC’d for email discussions - an
 approach that can be important for ensuring leading practices and
 correcting initial misinformation. Generally, the facilitator should
-step back after communication productively kicks off, but reiterate the
+step back after communication productively kicks off but reiterate the
 availability of any needed support and assistance, including
 participation in any future discussions. Even when two researchers have
 other, non-ACI-specific research aspects in common (e.g.
