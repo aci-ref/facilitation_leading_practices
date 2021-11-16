@@ -304,7 +304,7 @@ where a facilitator sees the potential for fruitful, repeated
 interaction among individuals, it may be appropriate to form a community
 or group around common interests, including any of the previously
 described topics. For example, the facilitator may increasingly connect
-researchers in communication around the same topic, and see a benefit of
+researchers in communication around the same topic and see a benefit of
 an email list or regular meetings to facilitate group discussions and
 technology exchange. Researchers may even come to facilitators or
 similar staff to discuss the potential for a specific group they have in
