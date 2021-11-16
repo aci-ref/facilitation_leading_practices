@@ -261,9 +261,9 @@ researchers are also from similar research domains or the same research
 group and, therefore, share a similar vocabulary, they’ll likely
 communicate and learn from each other even better than from the
 facilitator (see discussions and references on peer-learning in
-*[Education and Training of Researchers](../06-education/)*). To some extent, knowledge
+*[Education and Training of Researchers](../06-education/)*). Knowledge
 exchange between peers can be a crucial component of the assistance and
-education of individual researchers and in a way that scales beyond the
+education of researchers in a way that scales beyond the
 facilitator’s own efforts.
 
 
