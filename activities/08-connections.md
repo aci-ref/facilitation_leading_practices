@@ -308,7 +308,7 @@ researchers in communication around the same topic and see a benefit of
 an email list or regular meetings to facilitate group discussions and
 technology exchange. Researchers may even come to facilitators or
 similar staff to discuss the potential for a specific group they have in
-mind, or to request assistance in initiating and promoting the group.
+mind or to request assistance in initiating and promoting the group.
 
 The most fruitful <img class="non-captioned size300" src="{{ site.baseurl }}/images/08_03_CommunitiesFlowChart.png" alt="Forming Communities">communities and groups may be those for which
 researchers assemble around interests that reach beyond the limits of
