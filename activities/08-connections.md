@@ -289,7 +289,7 @@ with demonstrated success to create online documentation and other
 shared training materials. Individuals with similar software or methods
 might benefit from participating in group meetings or an email list, as
 described below. The facilitation of formal and informal collaborations
-is covered later in this chapter, but may also be an outcome of
+is covered later in this chapter but may also be an outcome of
 initially connecting researchers based upon similarities in research and
 ACI practices. 
 
