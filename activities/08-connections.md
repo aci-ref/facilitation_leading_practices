@@ -379,7 +379,7 @@ use of ACI resources with which the facilitator is associated.
 Regardless of ongoing participation in the group, there are a number of
 ways the facilitator or relevant ACI organization might support
 communities and groups. For example, the facilitator may assist with
-organizational logistics (e.g. meetings, email lists, web site), or help
+organizational logistics (e.g. meetings, email lists, web site) or help
 to integrate demos of ACI resources into meetings, if relevant. The
 facilitator can also help promote the group to potential new members,
 perhaps via established pathways for disseminating information about
