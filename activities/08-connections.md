@@ -401,8 +401,8 @@ liaising initial interactions, such that little additional action is
 required unless requested by the researchers.
 
 
-Without prior connection, researchers might specifically ask a
-facilitator if she is aware of anyone to collaborate with for the
+Without prior connection, researchers might specifically ask if the facilitator
+is aware of anyone to collaborate with for the
 purpose of achieving a specific research goal. For example, researchers
 in computation- and methods-heavy fields (e.g. computer sciences,
 engineering, mathematics, statistics, etc.) may be looking for a domain
