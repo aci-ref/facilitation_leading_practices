@@ -423,7 +423,7 @@ other ACI staff or matching the researchers with contacts in other
 organizations. These participating individuals might also contribute to
 funding proposals or letters of collaboration. Collaborations with ACI
 providers may also include partial funding for personnel in the ACI
-organization, including Facilitator time on specific activities for the
+organization, including facilitator time on specific activities for the
 project, where this model may be important for long-term financial
 support of staff in the ACI-providing organization. 
 
