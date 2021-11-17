@@ -439,7 +439,7 @@ professional network of other ACI staff are important for finding
 researchers with common ACI interests and for supporting existing
 connections. For example, the facilitator might leverage connections at
 other institutions to identify a collaboration opportunity for a local
-researcher. Or, a newly-formed group might request the one-time
+researcher, or a newly-formed group might request the one-time
 attendance of staff from another ACI (or non-ACI) organization within
 the facilitator’s network. For example, a group that meets to compare
 their computational genomics approaches might like to hear about
