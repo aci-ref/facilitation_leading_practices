@@ -441,7 +441,7 @@ connections. For example, the facilitator might leverage connections at
 other institutions to identify a collaboration opportunity for a local
 researcher, or a newly-formed group might request the one-time
 attendance of staff from another ACI (or non-ACI) organization within
-the facilitator’s network. For example, a group that meets to compare
+the facilitator’s network. In particular, a group that meets to compare
 their computational genomics approaches might like to hear about
 emerging virtual server options provided by an ACI service that the
 facilitator does not directly represent. In the case of multiple
