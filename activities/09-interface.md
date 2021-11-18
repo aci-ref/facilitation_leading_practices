@@ -29,8 +29,8 @@ enhancement and optimization of ACI Resources.*
 
 Given the range of facilitation activities discussed in prior chapters
 and the range of technical knowledge required to facilitate varying
-researcher needs across applicable ACI, it should be natural but also
-essential for Facilitators to build an interpersonal network of
+researcher needs across applicable ACI, it is essential, and should be natural,
+for Facilitators to build an interpersonal network of
 coworkers and other professionals with expertise in applicable areas.
 Certainly, no single individual will possess the entirety of skills and
 experience necessary to identify appropriate technical and non-technical
