@@ -37,8 +37,8 @@ experience necessary to identify appropriate technical and non-technical
 solutions such as learning materials and human connections that will
 enable researchers. Rather, Facilitators might think of themselves more
 as a gateway to information for researchers, whether by way of
-possessing that knowledge themselves, or by knowing how and where to
-find additional information resources, which should include the
+possessing that knowledge themselves or by knowing how and where to
+find additional information resources; facilitators should include the
 expertise of other ACI staff, both within and external to the
 Facilitator’s immediate working group. More specifically, Facilitators
 will frequently collaborate with other personnel when pursuing a variety
