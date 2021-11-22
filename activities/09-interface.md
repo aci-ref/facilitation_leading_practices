@@ -123,7 +123,7 @@ cultivate positive working relationships with all staff within their
 unit, especially with those whose efforts most directly inform
 facilitation practices and impact researchers. For example, a
 Facilitator of research computing resources will likely collaborate with
-systems administrators of compute and data storage systems, and perhaps
+systems administrators of compute and data storage systems and perhaps
 with programmers on staff who contribute to operations or collaborate on
 research projects. Developing productive relationships with these
 individuals will be especially important for a number of facilitation
