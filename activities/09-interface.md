@@ -120,7 +120,7 @@ Within the Facilitator’s immediate ACI team, the Facilitator will
 frequently depend on input, expertise, and effort from other staff. Depending
 on the services and staffing model, Facilitators should work to
 cultivate positive working relationships with all staff within their
-unit, but especially with those whose efforts most directly inform
+unit, especially with those whose efforts most directly inform
 facilitation practices and impact researchers. For example, a
 Facilitator of research computing resources will likely collaborate with
 systems administrators of compute and data storage systems, and perhaps
