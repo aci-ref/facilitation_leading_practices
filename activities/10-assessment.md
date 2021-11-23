@@ -188,7 +188,7 @@ The metrics discussed below include the metrics that the schools report monthly 
 
 <h3>ACI user base metrics</h3>
 
-User base data includes the number and types of users. Users can be categorized by their research groups, departments and/or colleges. It may be useful to also track the users by their field of study, as well as whether they are a member of a "traditional" or "non-traditional" ACI user field, noting that this distinction is dependent on the institution. The specific categories will also depend on the institution and the ACI organization. This data needs to be periodically recorded in order to track growth metrics.
+User base data includes the number and types of users. Users can be categorized by their research groups, departments, and/or colleges. It may be useful to also track the users by their field of study, as well as whether they are a member of a "traditional" or "non-traditional" ACI user field, noting that this distinction is dependent on the institution. The specific categories will also depend on the institution and the ACI organization. This data needs to be periodically recorded in order to track growth metrics.
 
 
 <h3>Resource usage metrics</h3>
