@@ -237,7 +237,7 @@ and for which a personal connection will benefit researchers with whom
 the Facilitator works with. For example, nationally-funded computing
 resources such as XSEDE, the Open Science Grid (OSG), the National
 Center for Genome Analysis Support (NCGAS), and other widely available
-providers of computing resources and consulting services, are likely to
+providers of computing resources and consulting services are likely to
 be important options for some researcher needs. Facilitators should take
 advantage of opportunities to connect with representatives from these
 organizations in order to liaise a researcher’s introduction to their
