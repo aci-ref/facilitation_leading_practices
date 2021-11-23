@@ -99,7 +99,7 @@ Metrics and assessments can also be used to evaluate a Facilitator's performance
 </ul>
 </div>
 
-They can also be made based on the impact of those contributions on the success of facilitation or the overall success of the ACI organization. This evaluation can also be used as an opportunity to review the process surrounding facilitation tasks, and perhaps identify tasks that can be automated.
+They can also be made based on the impact of those contributions on the success of facilitation or the overall success of the ACI organization. This evaluation can also be used as an opportunity to review the process surrounding facilitation tasks and perhaps identify tasks that can be automated.
 
 Periodically Facilitators should reflect on their accomplishments, note areas where they see a need for improvement, and set goals for the future. It is useful to obtain regular input on these from others in the ACI organization. Regular performance reviews can sometimes be leveraged to accomplish this, especially if they include both self and supervisory evaluations. However, if regular performance reviews do not occur, or if the review does not contain a self-assessment component, the Facilitator can take steps to evaluate themselves. This process allows the Facilitator to stay engaged and to keep up with the ACI organization's changing needs.  
 
