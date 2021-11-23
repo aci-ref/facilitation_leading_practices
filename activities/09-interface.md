@@ -296,8 +296,8 @@ improve ACI resources across organizations. In order to explore
 improvements to in-house ACI resources with coworkers, the Facilitator
 can leverage known examples from organizations providing similar or
 overlapping services. Facilitators should also explore ways to
-constructively inform the service offerings of other resource providers,
-whether on-campus, off-campus, or commercial, and with specific
+constructively inform the service offerings of other resource providers -
+whether on-campus, off-campus, or commercial - and with specific
 attention to feedback from researchers.
 
 Similarly, the Facilitator and his/her organization should seek feedback
