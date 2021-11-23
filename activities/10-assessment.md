@@ -193,7 +193,7 @@ User base data includes the number and types of users. Users can be categorized 
 
 <h3>Resource usage metrics</h3>
 
-Resource usage metrics will vary for different ACI systems and services, but may include the number of core hours used, the number of jobs run, and the number of users leveraging the resources over different time periods. The usage can also be further divided into the usage based on research groups, departments, colleges, as well as traditional/non-traditional users, provided the users of the resources can be categorized into these groups. An example is shown in Table 1.
+Resource usage metrics will vary for different ACI systems and services but may include the number of core hours used, the number of jobs run, and the number of users leveraging the resources over different time periods. The usage can also be further divided into the usage based on research groups, departments, colleges, as well as traditional/non-traditional users, provided the users of the resources can be categorized into these groups. An example is shown in Table 1.
 
 <i><b>Table 1.</b> A typical example taken from an ACI-REF monthly report on ACI user/project base and resource usage metrics, by category and department type</i>
 
