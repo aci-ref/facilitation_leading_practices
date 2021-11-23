@@ -39,15 +39,15 @@ developed learning materials, for both existing and emerging ACI
 resources, for the purpose of identify potential on-site trainings for
 their communities. Staying current can be a challenge, with numerous
 updates and releases throughout the year, and especially if these
-activities are not explicitly scheduled as part of a facilitator’s
+activities are not explicitly scheduled as part of a Facilitator’s
 duties, so devoting time to this pursuit, each week if possible, but at
 a minimum each month, is highly recommended.
 
 In addition to seeking information to enhance one's own knowledge of
-ACI, facilitators should also look for existing resources and materials
+ACI, Facilitators should also look for existing resources and materials
 that can be used by their research user community. Examples of these
 kinds of materials are listed in the following sections and may overlap
-with the tutorials and documents listed as resources for facilitator
+with the tutorials and documents listed as resources for Facilitator
 training.
 
 The rest of this chapter discusses resource types and specific
@@ -66,9 +66,9 @@ In addition to studying online
 resources and published materials on their own, it is recommended that
 Facilitators participate in professional development opportunities that
 combine learning and professional networking. Participation should focus
-on areas that are of interest to the facilitator and will also benefit
+on areas that are of interest to the Facilitator and will also benefit
 the institution.  Ideas for areas to pursue professional development and
-training for ACI facilitators are:
+training for ACI Facilitators are:
 <div class="bullet-box" style="clear: right;">
     <ul class="bullet-list-square">
 	<li>Teaching: Facilitators should continue to update their skills in
@@ -76,14 +76,14 @@ teaching and learn the current trends and leading practices to make
 trainings more beneficial for researchers.</li>
 	<li>Public speaking and presenting: In line with teaching methods, improving
 presentation skills provides benefits not just in training but at
-conferences and over venues where facilitators need to communicate.</li>
-	<li>Grant writing: Many facilitators work in research institutions where
+conferences and over venues where Facilitators need to communicate.</li>
+	<li>Grant writing: Many Facilitators work in research institutions where
 grant funding is common, so learning or enhancing grant writing skills is
 important.</li>
 	<li>ACI Software: Enhancing skills with existing software tools at the
 institution or learning how to use new tools is important in supporting
 and serving the research community in their use of similar tools.</li>
-	<li>ACI Hardware: Some facilitators work with ACI hardware for compute,
+	<li>ACI Hardware: Some Facilitators work with ACI hardware for compute,
 storage and visualization, so it is important to keep those skills and
 certifications current.</li>
 	<li>ACI System Management: In keeping the ACI resources healthy and
@@ -91,7 +91,7 @@ functional, there are a number of tools that are specific to making this
 more manageable and efficient.</li>
 </ul>
 </div>
-Many of the in-person professional development available to facilitators
+Many of the in-person professional development available to Facilitators
 are provided by vendors and through conferences and are discussed
 further in this section.
 
@@ -110,7 +110,7 @@ in ACI is sold by commercial vendors whose sales teams are often
 incentivized to help advertise their products by providing product
 training for their customers. These trainings  typically occur at
 workshops in conference settings and are  most useful when the vendor
-has a worthwhile training module that enhances a facilitator’s
+has a worthwhile training module that enhances a Facilitator’s
 understanding of how to utilize the product to accelerate or advance
 research and is relevant to the targeted community. If there is already
 a relationship with a vendor for a product that the institution has
@@ -126,7 +126,7 @@ relationship with vendor representatives can keep Facilitators informed
 about current  technology in addition to providing existing product
 updates and improvements.  This usually requires no more than a simple
 subscription to a mailing list or company newsletter. Information can
-also be directly solicited from vendors to enhance a facilitator’s
+also be directly solicited from vendors to enhance a Facilitator’s
 personal knowledge or relationship with a representative, for example, 
 to request the vendor’s participation in training events, to enhance
 potential offerings at an ACI site.
@@ -166,7 +166,7 @@ opportunities for interpersonal engagement and organized discussions of
 current topics with a wide-range of practitioners in the topic area.
 
 Some examples of ACI conferences that have been beneficial for current
-ACI facilitators are:
+ACI Facilitators are:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 	<li>XSEDE annual conference</li>
@@ -202,7 +202,7 @@ the many existing online communities. Most announcements, updates, news
 articles and other publications are first released on websites, in
 regular emails, and within community forums. Beyond the reading
 materials, there may be online video tutorials and self-paced trainings
-published by various ACI experts that may guide facilitators to new and
+published by various ACI experts that may guide Facilitators to new and
 popular areas of interest. Furthermore, these online resources can be a
 starting point for finding collaborators in some of the emerging ACI
 communities and for learning about relevant face-to-face workshops and
@@ -266,7 +266,7 @@ grow on the http://aciref.org website.
 </div>
 The examples provided for existing documentation resources providers not
 exhaustive. They are intended to provide concrete examples of
-documentation and training materials that current facilitators find
+documentation and training materials that current Facilitators find
 relevant.
 
 <a name="networking"></a>
@@ -278,7 +278,7 @@ news is readily posted by information providers. There are pros and cons
 to its use: Its immediacy is beneficial in fast-paced arenas like
 research and technology; however, the content is customarily not peer
 reviewed nor is there a guarantee of quality. With those caveats in
-mind, facilitators can begin reaping the benefits of social networks by
+mind, Facilitators can begin reaping the benefits of social networks by
 joining various sites such as LinkedIn or Researchgate, which are aimed
 at professional and research communications. Examples of LinkedIn groups
 include:
@@ -299,7 +299,7 @@ maintain their own sites and offline presence as well. There can be
 additional benefits to becoming a member of these sites, as well as
 opportunities for participating in committees and governance groups.
 Some examples of professional organizations that current ACI
-facilitators find useful are listed below:
+Facilitators find useful are listed below:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
@@ -324,7 +324,7 @@ are discovered.
 In academia, the scientific journal has been the classic repository for
 knowledge and discovery.  However, blogs and trade magazines also offer
 a gateway and enhancement to journal publications. These platforms
-frequently offer ACI facilitators materials for learn about the current
+frequently offer ACI Facilitators materials for learn about the current
 trends of ACI as well as the current research taking place.
 
 A list of suggested materials that is not exhaustive can be found in
@@ -382,12 +382,12 @@ Neither science nor facilitation take place in a vacuum. It takes an
 academic village, where villagers know one another and work together, to
 foster inquiry and research. These villages, or communities of practice,
 consist of professional and subject matter networks. Similarly,
-connecting with other ACI facilitators and researchers is an opportunity
+connecting with other ACI Facilitators and researchers is an opportunity
 for the exchange of ideas and knowledge about the many aspects of ACI.
 These exchanges can enhance a Facilitator’s existing knowledge and
 advance their professional growth.
 
-However, networking requires an investment in time and many facilitators
+However, networking requires an investment in time and many Facilitators
 already have little to spare. Ideally, they will choose networks that
 provide the most benefit, and can do so by looking for networks that
 meet the following criteria:
@@ -415,8 +415,8 @@ to ACI are:
     </ul>
 </div>
 
-Not to overlook the local resources at a facilitator's disposal,
-networks can also be internal to an institution and the facilitator
+Not to overlook the local resources at a Facilitator's disposal,
+networks can also be internal to an institution and the Facilitator
 should inquire about local groups or initiatives for faculty, staff and
 graduate student researchers. These types of networks offer
 institutional knowledge exchange, both historical and contemporary,

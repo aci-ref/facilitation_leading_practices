@@ -192,7 +192,7 @@ likelihood that at least one of the office hours slots and locations
 will work for a given researcher.
 
 Depending on the popularity of office hours, it may be necessary to have
-multiple facilitators (or similar individuals) at a given session, or to
+multiple Facilitators (or similar individuals) at a given session, or to
 have other ACI staff prepared to assist should office hours become too
 busy for a sole person. As office hours are otherwise very similar to
 scheduled meetings in that they are usually executed in a face-to-face
@@ -666,7 +666,7 @@ Example 2: (continued)
 <a name="non-empower"></a>
 <h2>Empower the User to Find Her/His Own Answers</h2>
 
-As demonstrated in the facilitator’s response above, it is important to
+As demonstrated in the Facilitator’s response above, it is important to
 link to external resources that contain solutions for achieving a
 researcher’s goals. This practice is not only important for providing
 next steps, but also demonstrates how one might find answers to such
@@ -723,7 +723,7 @@ assistance may even evolve into conversations more akin to engagements.
 This particular activity is perhaps the most important component
 distinguishing the facilitation approach from more common approaches of
 supporting users of CI, whereby researchers are provided with written
-documentation and are left to initiate contact with facilitators.
+documentation and are left to initiate contact with Facilitators.
 Proactive assistance allows Facilitators to build upon relationships
 with researchers and, more importantly, to identify issues that users
 may not think to ask about.

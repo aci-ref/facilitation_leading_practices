@@ -46,7 +46,7 @@ resources. Such materials not only serve as an important complement to
 engagement and assistance activities, but are often - and should be -
 informed by these activities. Facilitators are generally poised to be
 most familiar with user interfaces to ACI resources and with the range
-of researcher experiences and feedback; therefore, facilitators should
+of researcher experiences and feedback; therefore, Facilitators should
 be able to organize, produce, and deliver functional learning resources
 for ACI users.
 

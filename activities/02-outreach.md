@@ -6,7 +6,7 @@ next: 03-engagement
 icon : Ch2.png
 ---
 
-*Promoting awareness and understanding of the facilitator role and of
+*Promoting awareness and understanding of the Facilitator role and of
 ACI resources to potential users of ACI resources and to various
 administrators, including entities who exist within and external to the
 institution. Effectively targeting key audiences.*
@@ -246,7 +246,7 @@ Jump to: [top](#toc)
 
 Often a Facilitator will be called upon to organize outreach events for
 their respective ACI organization. There are a multitude of event types
-that can be effective in promoting ACI and the facilitator role, and the
+that can be effective in promoting ACI and the Facilitator role, and the
 choice of event type depends greatly on the ACI organization and local
 culture. In this section we will present a number of events that have
 worked for the institutions involved in creating this document.

@@ -17,7 +17,7 @@ icon: Ch10.png
     1.2 [Assessment Planning](#assessment-plan)    
 2. [Use of Metrics and Assessments](#use)    
     2.1 [Program Evaluation](#programeval)    
-    2.2 [Facilitator Evaluation](#facilitatoreval)    
+    2.2 [Facilitator Evaluation](#Facilitatoreval)    
     2.3 [ROI or Impact Evaluation](#roieval)   
     2.4 [Training Evaluation](#trainingeval)
 3. [Types of Metrics and Assessment](#metrics-assess)    
@@ -85,7 +85,7 @@ An evaluation of an organization's facilitation program should first of all prov
 
 This process should involve identifying specific steps that can be made to improve the ACI organization as a whole, including the facilitation efforts. As an example, the results of a training evaluation can be used to identify training that may need to be updated and/or modified due to changes in resources or procedures, be adapted to new training requirements, or is no longer of value.
 
-<a name="facilitatoreval"></a>
+<a name="Facilitatoreval"></a>
 
 <h2>Facilitator Evaluation</h2>
 
@@ -375,7 +375,7 @@ Quizzes can be used to determine if a student has an accurate working knowledge 
 <img class="visual-right-wrapped" src="{{ site.baseurl }}/img/10-02.png" alt="questions"></a>
 <i>Figure 2: Example of assessment questions from a workshop quiz used by one of the ACI-REF institutions</i>
 </div>
-An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
+An example of two questions that were used to assess ACI users' understanding of ACI policy are shown in Figure 2; the results can be used to provide feedback to the Facilitator on the effectiveness of the information that new ACI users are given. For enhancing learning, feedback can be provided when an incorrect answer is selected.
 
 <a name="observations"></a>
 

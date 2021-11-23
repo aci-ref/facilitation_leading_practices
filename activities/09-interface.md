@@ -15,7 +15,7 @@ enhancement and optimization of ACI Resources.*
 
 1. [Introduction](#introduction)
 2. [Collaborating with ACI Staff in Your Working Group](#working-group)   
-	2.1 [Coordinate with Other Facilitators](#facilitators)   
+	2.1 [Coordinate with Other Facilitators](#Facilitators)   
 	2.2 [Establish Working Relationships with Other Personnel](#other-personnel)    
 	2.3 [Communicate via Consistent Practices](#consistency)
 3. [Building Connections beyond Your Direct Working Group](#beyond-working-group)   
@@ -30,17 +30,17 @@ enhancement and optimization of ACI Resources.*
 Given the range of facilitation activities discussed in prior chapters
 and the range of technical knowledge required to facilitate varying
 researcher needs across applicable ACI, it is essential, and should be natural,
-for facilitators to build an interpersonal network of
+for Facilitators to build an interpersonal network of
 coworkers and other professionals with expertise in applicable areas.
 Certainly, no single individual will possess the entirety of skills and
 experience necessary to identify appropriate technical and non-technical
 solutions such as learning materials and human connections that will
-enable researchers. Rather, facilitators might think of themselves more
+enable researchers. Rather, Facilitators might think of themselves more
 as a gateway to information for researchers, whether by way of
 possessing that knowledge themselves or by knowing how and where to
-find additional information resources; facilitators should include the
+find additional information resources; Facilitators should include the
 expertise of other ACI staff, both within and external to the
-facilitator’s immediate working group. More specifically, facilitators
+Facilitator’s immediate working group. More specifically, Facilitators
 will frequently collaborate with other personnel when pursuing a variety
 of facilitation and related activities, including:
 
@@ -57,7 +57,7 @@ resources</li>
 </div>
 
 Furthermore, and as an indirect benefit of having a rich interpersonal
-network for performing their own responsibilities, facilitators may
+network for performing their own responsibilities, Facilitators may
 enhance the capabilities of ACI-providing organizations and personnel by
 enhancing professional connections between them. The following sections
 of this chapter discuss various strategies for establishing working
@@ -74,27 +74,27 @@ Jump to: [top](#toc)
 <div class="captioned">
 <a href="http://chtc.cs.wisc.edu/people.shtml" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_UWteam-2016.jpeg" alt="UW CHTC Staff"></a><br>The CHTC team at UW-Madison, including ACI-REFs
 </div>
-First and foremost, facilitators will collaborate regularly and
+First and foremost, Facilitators will collaborate regularly and
 significantly with members of their immediate working group, especially
 in supporting the day-to-day activities of working with researchers. The
-immediate working group of a facilitator of research computing services
-will typically include other facilitators, systems specialists, and
+immediate working group of a Facilitator of research computing services
+will typically include other Facilitators, systems specialists, and
 direct supervisors. Practices for collaboration - including coordinating
-with other facilitators, developing relationships with other ACI
+with other Facilitators, developing relationships with other ACI
 specialists, and establishing consistent communication practices - are
 addressed in the following sections.
 
 Jump to: [top](#toc)
 
-<a name="facilitators"></a>
+<a name="Facilitators"></a>
 
 ## Coordinate with Other Facilitators
 
 As introduced in previous chapters, it is of utmost importance that
-multiple facilitators in the same working group coordinate their
+multiple Facilitators in the same working group coordinate their
 activities in working directly with researchers. Facilitators will need
 to coordinate record-keeping practices for engagement and assistance
-activities so that other facilitators can effectively assist the same
+activities so that other Facilitators can effectively assist the same
 researchers in the future. Even when only one individual acts as the
 primary Facilitator, consistent documentation of activities will help
 other staff and Facilitator successors in the event that the Facilitator
@@ -173,7 +173,7 @@ Jump to: [top](#toc)
 # Building Connections beyond Your Direct Working Group
 
 <div class="captioned">
-<a href="https://aciref.org/facilitators/bios/" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_PEARC17chat.jpg" alt="UW CHTC Staff"></a><br>ACI-REFs chatting between sessions at PEARC17
+<a href="https://aciref.org/Facilitators/bios/" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_PEARC17chat.jpg" alt="UW CHTC Staff"></a><br>ACI-REFs chatting between sessions at PEARC17
 </div>
 Because a Facilitator should act as an “honest broker” for researchers
 by pointing them to the most appropriate ACI resources beyond the
