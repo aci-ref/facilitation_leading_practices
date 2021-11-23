@@ -260,11 +260,11 @@ the Facilitator may end up coordinating the researcher purchases of
 hardware as part of a ‘condo’ model of data storage or computing
 capacity. For large additions of hardware within the Facilitator’s ACI
 organization, the Facilitator may arrange meetings with vendors to find
-the most appropriate additions to meet researcher needs. Facilitators
-may also coordinate software license purchases that are shared across
-research groups or made with central campus funds, may work with vendors
+the most appropriate additions to meet researcher needs. Also, Facilitators
+may coordinate software license purchases that are shared across
+research groups or made with central campus funds, work with vendors
 to explore new middleware options to enhance the user interface to local
-resources, or may coordinate and contribute to trainings in using
+resources, and/or coordinate and contribute to trainings in using
 vendor-provided software for local researchers. In all of these cases,
 the best outcomes for researchers and their projects will be achieved if
 the Facilitator can contribute positively to the relationship with
