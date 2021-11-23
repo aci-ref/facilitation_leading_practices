@@ -78,7 +78,7 @@ An evaluation of an organization's facilitation program should first of all prov
 <div class="bullet-box">
     <ul class="bullet-list-square">
 <li>help identify clear areas of growth opportunities for the organization</li>
-<li>allow for the setting of specific goals, for improvement in the future</li>
+<li>allow for the setting of specific goals for improvement in the future</li>
 <li>guide the setting of priorities, especially when choices must be made between resources and/or services to be offered</li>
 </ul>
 </div>
