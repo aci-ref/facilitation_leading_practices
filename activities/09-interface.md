@@ -268,7 +268,7 @@ resources, and/or coordinate and contribute to trainings in using
 vendor-provided software for local researchers. In all of these cases,
 the best outcomes for researchers and their projects will be achieved if
 the Facilitator can contribute positively to the relationship with
-vendors in terms of specifying needs and representing use cases, as well
+vendors in terms of specifying needs and representing use cases as well
 as negotiating prices. These relationships and interactions with vendors
 should also be coordinated with supervisors and across the working
 group.
