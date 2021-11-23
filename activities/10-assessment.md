@@ -322,7 +322,7 @@ Departments*
 
 <h3>Return on investment (ROI) metrics</h3>
 
-Return on investment or ROI metrics are data that can be used to show the impact of the availability of ACI resources to the institution. This includes information on the results of ACI resource use by faculty, researchers and students, such as funding support, publications, presentations and dissertations.
+Return on investment or ROI metrics are data that can be used to show the impact of the availability of ACI resources to the institution. This includes information on the results of ACI resource use by faculty, researchers, and students, such as funding support, publications, presentations, and dissertations.
 
 Analyses of these metrics can provide valuable, concrete measures of the impact of the facilitation efforts to the various stakeholders, such as the administration of the ACI organization and larger institution, and the project's sponsoring agency, if relevant. User base metrics can be analyzed to show the evolution of a user community. Resource use metrics can be analyzed to evaluate different aspects of an ACI resource, justifying the funding of the ACI organization and supporting its growth. Independent of the exact metrics data an institution chooses to collect, it is best to collect the data at some periodic interval, such as an academic year, to be able to determine trends in the data. Consistency is also necessary for a meaningful assessment and evaluation of the program. Finally, it is important to periodically review the metrics collected in order to determine if changes, improvements or additional foci are needed.
 
