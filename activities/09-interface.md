@@ -305,7 +305,7 @@ from other service providers, especially when that feedback directly
 reflects researcher perspectives and evolving needs. Within an
 institution, researchers and ACI providers will benefit when
 Facilitators can help various providers to coordinate complementary
-services that researchers can easily transition between, while also
+services that researchers can easily transition between while also
 optimizing the full spectrum of services and addressing potential
 redundancies. Because of their exposure to researcher struggles and
 practices across the various facilitation activities covered in these
