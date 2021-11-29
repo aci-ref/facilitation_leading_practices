@@ -423,7 +423,7 @@ Demographic knowledge of new ACI users can facilitate the development of appropr
 
 <h2>Resource usage metrics</h2>
 
-Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source, Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
+Tools for gathering resource usage metrics are often provided by the specific scheduler used to manage access to the resource or are self-built scripts that mine data from the scheduler or system logs. There are also tools such as the National Science Foundation funded, open source Open XDMod ([open.xdmod.org](http://open.xdmod.org/)) that have been developed to be run with different resource managers in order to provide a wide range of metrics, including resource utilization and resource performance. Open XDMod is currently being expanded to collect data on the impact on scholarship and research. The usage metrics can be combined with user based metrics and categorized by user, group, department, college.
 
 <div class="visual-right-wrapped2">
 <a href="../../img/10-03.jpg" target="_blank">
