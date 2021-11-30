@@ -45,7 +45,7 @@ The information presented in this chapter represents a collective understanding 
 
 <h2>Definitions</h2>
 
-In order to establish a consistent framework describing the information to be collected, it is important to define how the terms **_metrics_**, **_assessment data_** and **_evaluation_** will be used.
+In order to establish a consistent framework describing the information to be collected, it is important to define how the terms **_metrics_**, **_assessment data_**, and **_evaluation_** will be used.
 
 A **_metric_** is defined as directly measurable and quantitative information that, in this case, will be used to track ACI resource performance, use, and facilitation. Metric data may include ACI usage patterns, attendance at training events, Facilitator interactions, and any other information that can be measured to demonstrate the progress and/or impact of facilitation services. Metrics are objective and sentiment neutral.
 
