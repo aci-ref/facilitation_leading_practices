@@ -509,7 +509,7 @@ BME</td>
 </table>
 
 
-An analysis of these can be used to identify common questions and complex issues.  These can be used in turn to generate a FAQ list to which users can be referred.  This type of analysis can also be used to direct the content of training sessions, with the goal of reducing the repetitive basic questions that can take much of the Facilitator's time.
+An analysis of these can be used to identify common questions and complex issues.  These can be used in turn to generate a FAQ list to which users can be referred.  This type of analysis can also be used to direct the content of training sessions with the goal of reducing the repetitive basic questions that can take much of the Facilitator's time.
 
 <i>Researcher engagements</i>: As detailed in the *[Engagements](../03-engagement)* and *[Implementing a Researcher's ACI Plan](../04-aci_plan)* chapters of this document, defining and following an established procedure to track researcher interactions is crucial. In some cases, the ticketing system can be used to generate a record of user engagements; in other cases, Facilitators use a separate tool for tracking engagements specifically. Optimally, the method used to track the engagements should include a mechanism that makes it easy to identify metrics such their number of engagements and length of involvement for a given engagement, and information about the researchers who were consulted. The method chosen should allow for the ability to follow the engagements of a particular user or group over time. This is discussed in more detail in the *[Implementation section of the Engagements with Researchers](../03-engagement#records-implement)* chapter.
 
