@@ -655,7 +655,7 @@ For ROI metrics, institutions may have repositories or databases that can be min
 </table>
 
 
-User metric demographics can also be used to demonstrate the different areas of research across campus which are impacted by the availability of ACI resources, and can be used to identify supporters or champions from new areas. An example of how this information can be reported is shown in Table 5. Finally, the use of reports from individuals highlighting how the use of ACI resources and/or facilitation was critical for accomplishing a specific research effort can be invaluable in showing impact.
+User metric demographics can also be used to demonstrate the different areas of research across campus which are impacted by the availability of ACI resources and can be used to identify supporters or champions from new areas. An example of how this information can be reported is shown in Table 5. Finally, the use of reports from individuals highlighting how the use of ACI resources and/or facilitation was critical for accomplishing a specific research effort can be invaluable in showing impact.
 
 Jump to: [top](#toc)
 <a name="summary"></a>
