@@ -553,7 +553,7 @@ An analysis of these can be used to identify common questions and complex issues
 </table>
 
 
-Simple statistics that combine user base metrics and facilitation metrics can be used to answer questions such as "<i>What percent of new ACI users have we engaged?</i>" and "<i>What percent of users have attended a training event?</i>" The results can be further broken down by school and department to provide a measure of the distribution of engagement and training participants across an institution. Plotting dates and attendance rates of events will result in trends over an academic year, allowing for the determination of the interest level in specific training events, and assisting in the planning of future training offerings, both in terms of what to offer and when.
+Simple statistics that combine user base metrics and facilitation metrics can be used to answer questions such as "<i>What percent of new ACI users have we engaged?</i>" and "<i>What percent of users have attended a training event?</i>" The results can be further broken down by school and department to provide a measure of the distribution of engagement and training participants across an institution. Plotting dates and attendance rates of events will result in trends over an academic year, allowing for the determination of the interest level in specific training events and assisting in the planning of future training offerings both in terms of what to offer and when.
 
 <a name="tools-facassess"></a>
 
