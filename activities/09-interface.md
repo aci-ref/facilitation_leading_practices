@@ -250,7 +250,7 @@ communities are most likely to provide opportunities for relevant
 conversations; for example, many ACI-REF Facilitators participate in the
 following events: XSEDE and OSG conferences, Advanced Research Computing
 on Campuses (ARCC) meetings, Campus Research Computing (CaRC)
-Infrastructures Consortium, and many others listed [here](https://aciref.org/project/conferences/).
+Infrastructures Consortium, and many others listed [here](https://aci-ref.org/project/conferences/).
 
 Beyond researcher-facing services, there are several reasons why a
 Facilitator may develop relationships with outside vendors of hardware,
