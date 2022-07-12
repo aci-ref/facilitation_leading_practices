@@ -8,7 +8,7 @@ icon: Ch1.png
 
 *Defining one’s role, including expectations of institutional support
 required for effective facilitation. Training and education of new
-facilitators. Establishing initial connections with other staff.*
+Facilitators. Establishing initial connections with other staff.*
 
 <a name="toc"></a>
 
@@ -37,7 +37,7 @@ working as part of an ACI team. It is meant to assist new Facilitators
 as they start with the task of defining their role. The first section on
 institutional context views the role of facilitation and the hiring of a
 Facilitator through an institutional lens. Subsequent sections are on
-understanding and owning the facilitator role, and examining aspects of
+understanding and owning the Facilitator role, and examining aspects of
 the on-boarding process that are specific to ACI facilitation, including
 organizational structure, computational resources, the ACI team, the
 user base, and current state of facilitation. 
@@ -83,7 +83,7 @@ position, they may have addressed the following questions:
 <li>What are most important tasks/responsibilities of the new position? </li>
 <li>What is the required skill set necessary to perform these tasks? </li>
 <li>What educational background and experience are important? </li>
-<li>Is there specific domain expertise that will be important for this facilitator?</li>
+<li>Is there specific domain expertise that will be important for this Facilitator?</li>
 </ul>
 </div>
 The answers to these questions will help prioritize expectations
@@ -112,7 +112,7 @@ their institution by asking the following questions:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-        <li>Are users aware of facilitators and the facilitation services offered by
+        <li>Are users aware of Facilitators and the facilitation services offered by
 the ACI organization? </li>
 <li>Do ACI users see the value of facilitation in
 their day-to-day use of the ACI infrastructure? </li>
@@ -296,10 +296,10 @@ much more on this topic, see the chapter on *[Enhancing ACI Knowledge](../07-aci
 If the ACI organization is new it will be
 the responsibility of the Facilitator to establish good practices for
 facilitation. If the Facilitator was hired to replace an existing or
-previous facilitator, the new Facilitator should start by learning about
+previous Facilitator, the new Facilitator should start by learning about
 current facilitation practices and to understand how these can be
 continued and improved for the best research outcomes. When a new
-Facilitator is hired to augment an existing facilitator, it is important
+Facilitator is hired to augment an existing Facilitator, it is important
 that they work together to find ways to coordinate, so as to complement
 each other, based on differences in their background and expertise.
 
@@ -356,7 +356,7 @@ Jump to: [top](#toc)
 
 In the introduction to this document and in the following chapters, we
 describe a wide range of facilitation activities to serve as a starting
-point in determining the specific responsibilities of a facilitator. It
+point in determining the specific responsibilities of a Facilitator. It
 is up to the Facilitator and their supervisor(s) to define and
 prioritize the specific practices of a given position, in order to meet
 the specific needs and context of their organization. The goal is to be
@@ -396,7 +396,7 @@ Jump to: [top](#toc)
 In the remainder of this document we present information about what we
 see as the major aspects of facilitation, as presented in the overview
 chapter, and share lessons learned from our collective experiences from
-both being facilitators and from numerous discussions on facilitation
+both being Facilitators and from numerous discussions on facilitation
 leading practices as part of the ACI-REF program which funded the creation
 of this document. While each organization will have unique facilitation
 needs, much of the information provided is on the fundamental tasks of

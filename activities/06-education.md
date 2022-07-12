@@ -46,7 +46,7 @@ resources. Such materials not only serve as an important complement to
 engagement and assistance activities, but are often - and should be -
 informed by these activities. Facilitators are generally poised to be
 most familiar with user interfaces to ACI resources and with the range
-of researcher experiences and feedback; therefore, facilitators should
+of researcher experiences and feedback; therefore, Facilitators should
 be able to organize, produce, and deliver functional learning resources
 for ACI users.
 
@@ -96,7 +96,7 @@ resources</li>
 Many of these different types of learning materials and opportunities
 are described later in this chapter, drawing on the "Overall
 Considerations" just below. We additionally cover general considerations
-for composing and delivering training materials, and for incorporating
+for composing and delivering training materials and for incorporating
 external materials into an overall structure for supporting the learning
 needs of users of an ACI resource.
 
@@ -200,10 +200,10 @@ materials (e.g., guides for the unix shell, text editors, or common
 command-line file transfer tools). For in-house materials, it is often
 important to point to such external references when introducing a
 specific skill within a greater step-by-step example. However, there are
-certainly instances when some amount of generalizable information will
+certainly instances when generalizable information will
 be most effective when actually embedded within Facilitator-created
-materials, instead of simply pointing to external sources, and in order
-to avoid drawing the user’s attention away from the overall workflow.
+materials instead of simply pointing to external sources and
+drawing the user’s attention away from the overall workflow.
 For example, specific illustrative ‘tar’ commands might be included in a
 guide for transferring large files between specific remote systems,
 rather than simply stating that files should be tar’d and pointing to a
@@ -221,6 +221,8 @@ Carpentry</a></li>
 <li>institutionally-supported proprietary training services, like
 Lynda.com</li>
 <li>Wikipedia and other online information aggregators</li>
+<li>Question and Answer websites (e.g. Stack Exchange Network)</li>
+<li>Forums and other Community Driven Developments (e.g. mailing lists, Slack teams, etc.)  </li>
 <li>books (where appropriate)</li>
 <li>faculty-developed, university-sponsored, or professional society
 courses</li>
@@ -394,19 +396,22 @@ developers should consider the following details in light of learning
 goals and leading practices in curriculum development and technical
 documentation:
 <div class="bullet-box">
-    <ul class="bullet-list-square">
-<li>Which major style of informative material will be best?: <i>concept
-guide</i> (akin to our "education" definition), <i>tutorial</i> (“training”), or
+<ul class="bullet-list-square">
+<li markdown = "span">Which major style of informative material will be best?: *concept
+guide* (akin to our "education" definition), *tutorial* (“training”), or
 <i>reference</i> (akin to software manuals and indexes)? See [^3] 
-and other resources for more on these three styles.</li>
-<li>Furthermore, what amount of information should be presented within a
+and other resources for more on these three styles.
+</li>
+<li markdown = "span">Furthermore, what amount of information should be presented within a
 unit of learning material, taking care to avoid concept overload?[^10]
  For example, some established tips for in-person and
 self-help tutorials indicate a general goal of 30 minutes for a single
-uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]</li>
-<li>Content should be evaluated against the goals for content and learning
+uninterrupted unit of learning material, especially for beginner tasks. [^17] [^15]
+</li>
+<li markdown = "span">Content should be evaluated against the goals for content and learning
 outcomes, both in the editing process and when designing assessments of
-learning.[^2]</li>
+learning.[^2]
+</li>
 </ul>
 </div>
 In addition to informing content development, the goals of any unit of
@@ -557,7 +562,6 @@ Jump to: [top](#toc)
             <li> One-on-One Training </li>
             <li> Videos </li>
         </ul>	
-        <li class="list-checkbox">bullet pt 3</li>          
     </ul> 
 </div>
 
@@ -629,7 +633,8 @@ can be found on the web with common practices for generating effective
 FAQs, and therefore will not be cited here. Generally, FAQs should:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-<li>include questions that *are* frequently asked</li>
+<li markdown="span">include questions that *are* frequently asked
+</li>
 <li>be organized into groupings of similar concepts, in order to evoke
 high-level conceptual frameworks</li>
 <li>include the most essential and simple questions first, before listing
@@ -721,7 +726,7 @@ As compared to informational talks, *training* in a classroom or similar
 in-person format often takes the form of *tutorials*. These tutorials
 may be introduced with short or long periods of informational talks in
 some cases. (Software Carpentry workshops and curriculum, for example,
-focus maining on hands-on guided practice with bits of explanation prose
+focus mainly on hands-on guided practice with bits of explanation prose
 along the way.) Importantly, one-to-many training materials can often
 serve double-duty for in-person and self-help learning, if made publicly
 available beyond their use at in-person learning events.

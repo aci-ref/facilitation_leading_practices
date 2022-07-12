@@ -6,7 +6,7 @@ next: 03-engagement
 icon : Ch2.png
 ---
 
-*Promoting awareness and understanding of the facilitator role and of
+*Promoting awareness and understanding of the Facilitator role and of
 ACI resources to potential users of ACI resources and to various
 administrators, including entities who exist within and external to the
 institution. Effectively targeting key audiences.*
@@ -204,21 +204,21 @@ Jump to: [top](#toc)
 # Partnering with Existing Events
 
 Participating in existing events at an institution can help an ACI
-organization reach new and diverse audiences, and can be easier than
+organization reach new, diverse audiences and can be easier than
 creating an event solely for the purpose of promoting awareness of ACI
 resources. Thus, researching existing activities at the institutional or
 departmental levels is a good place to start with outreach. For
 activities at the division or department level, ask existing ACI users
 and their ITS or department directors about upcoming or regular events.
 At the institutional level, check with centers for faculty and research
-support. For initial contact, reaching out to  existing communications
-groups at any of these levels, can also be a good place to start.
+support. For initial contact, reaching out to existing communications
+groups at any of these levels can also be a good place to start.
 Utilizing existing, regularly scheduled meetings such as those discussed
 below has the distinct advantage that the individuals involved already
-have the meeting on their calendars and therefore the Facilitator does
+have the meeting on their calendars, and therefore the Facilitator does
 not have to arrange for a time that works with multiple schedules. In
-addition, the location of the meeting is also already determined, and
-therefore there is no requirement to find an suitable location.
+addition, the location of the meeting is also already determined, 
+meaning there is no requirement to find an suitable location.
 
 For a Facilitator in an academic setting, established events that can be
 leveraged for outreach include, but are not limited to, faculty
@@ -246,7 +246,7 @@ Jump to: [top](#toc)
 
 Often a Facilitator will be called upon to organize outreach events for
 their respective ACI organization. There are a multitude of event types
-that can be effective in promoting ACI and the facilitator role, and the
+that can be effective in promoting ACI and the Facilitator role, and the
 choice of event type depends greatly on the ACI organization and local
 culture. In this section we will present a number of events that have
 worked for the institutions involved in creating this document.
@@ -374,25 +374,25 @@ available.
 
 Presentations are generally the most commonly used approach in outreach
 at most institutions, as they are useful when presenting to a group and
-as they work in a number of different settings. Typically the larger the
+as they work in a number of different settings. Typically, the larger the
 audience and the more formal the event is, the more important it is to
 have a presentation prepared in advance. It is useful to have multiple
 sets of slides that cover different aspects of the ACI resource or
 organization, from which to choose depending on the focus of the
-presentation, the audience, and the time available. An outreach based
+presentation, the audience, and the time available. An outreach-based
 presentation can be used as a lead-in presentation in an educational and
 training presentation series, in order to introduce the audience to the
 resources that will be discussed in future presentations in the series.
-Alternately it can be a stand-alone presentation given to an group
+Alternately, it can be a stand-alone presentation given to an group
 interested in learning more about the ACI resources available and how
 they are used.
 
-There exist many on-line sources that can be accessed by googling topics
+There exist many online sources that can be accessed by googling topics
 such as "pointers for good presentations" or “pointers for effective
 presentations”. These focus on all aspects of doing a presentation, from
 determining the content, to creating the slides, to giving the
 presentation. These sources also include pointers on adjusting
-presentations to fit the venue, audience, and occasion, as well as tips
+presentations to fit the venue, audience, and occasion as well as tips
 on how to improve your skill as a presenter.
 
 <a name="posters"></a>
@@ -406,13 +406,13 @@ Example poster from the University of Utah's Center for High Performance Computi
 
 A poster with highlights of either the resources available or a use
 case, or both, is another valuable tool to use when doing outreach. This
-can be either a printed poster, or can be a monitor showing a slideshow
+can be either a printed poster or can be a monitor showing a slideshow
 of use cases and informational materials. While often these are created
 for an external event, they can also be displayed at the ACI
 organization, especially when the location is one that is visited by the
 user base and any visitors to the organization. A Facilitator or any
-other ACI staff can use these as talking points on the ACI resource and its usage when meeting with either
-established or new users.
+other ACI staff can use these as talking points on the ACI resource and 
+its usage when meeting with either established or new users.
 
 <a name="handouts"></a>
 
@@ -423,10 +423,10 @@ outreach tools or as supplemental materials for other outreach efforts.
 When talking to potential or new users, such as new faculty candidates,
 these can detail the resources available and where to get more
 information in an easy-to-consume format. The goal is to provide
-sufficient details on what resources are available and also provide
-directions to get more information. Alternately, handouts might include
+sufficient details on what resources are available and directions
+to get more information. Alternately, handouts might include
 facts such as growth in usage, numbers of training event attendees,
-and/or number of research grants and publications supported; these data
+and/or number of research grants and publications supported; this data
 can be used effectively to demonstrate the return on investment to
 administration and other funding stakeholders. In either case, these
 fact sheets should focus on multiple aspects of ACI, including human
@@ -436,13 +436,13 @@ support in addition to physical resources.
 
 ## Use Case Stories
 
-Along with fact sheets, use cases are a very effective outreach tool.
+Along with fact sheets, use cases are an effective outreach tool.
 These can be short write-ups of success stories made possible due to the
-availability of ACI resources, especially very visible successes such as
+availability of ACI resources, especially highly visible successes such as
 those published in high-impact journals or one that have received
 substantial press coverage. Examples of ACI successes are especially
-useful when justification the implementation of an ACI resource. Where
-appropriate, success stories should also feature the role the
+useful when justifying the implementation of an ACI resource. Where
+appropriate, success stories should also feature the role of the
 Facilitators or other ACI staff and can be featured on the ACI
 organization website.
 
@@ -456,13 +456,13 @@ Example page from an ACI resource newsletter.
 </div>
 
 Newsletters are another way to present multiple pieces and types of
-information in a succinct form. These can be produced on a regular
-schedule and distributed to the users and institutional leadership, via
+information in a succinct form. Newsletters can be produced on a regular
+schedule and distributed to the users and institutional leadership via
 email and/or printed copy. Facilitators can use the distribution of a
 printed newsletter as a reason to visit with existing users and
 administration. Any newsletters published should also be made available
 electronically on the ACI organization website. When providing content,
-keep in mind that with some topics it is often sufficient to provide a
+keep in mind that with some topics that it is often sufficient to provide a
 short blurb with a link to a location providing more detailed
 information, allowing the reader to make a decision if the topic is of
 interest or applicable to them. As an example,  in recent editions of
@@ -504,9 +504,9 @@ tools such as Google Analytics can be utilized to assess online
 advertising methods used and the value of other online outreach content.
 
 Along with recording the metrics of the event, it is also important to
-get as sense of the effectiveness of the event, in order to determine
+get as sense of the effectiveness of the event in order to determine
 whether or not the outreach achieved the goal. There are a number of
-ways to measure the effectiveness, and these are not only applicable to
+ways to measure the effectiveness of the event, and these are not only applicable to
 outreach activities, but also to the similar *[Education and Training](../06-education)*
 activities of a Facilitator. One approach, most valid when the
 outreach activity is a presentation, is to give the attendees a short
@@ -522,8 +522,8 @@ experienced.
 Feedback on the effectiveness of an outreach activity can also be
 obtained by reaching out to one or more of the attendees of the
 activity, either with a written survey or in a one-on-one meeting. This
-type of feedback can often provide a higher level of detail, and can be
-done in an open-ended manner, with the responses to any single question
+type of feedback can often provide a higher level of detail and can be
+done in an open-ended manner, the responses to any single question
 leading to follow up questions and discussion.
 
 Finally, it is essential that the Facilitator take time to reflect upon
@@ -554,7 +554,7 @@ essential that a Facilitator takes the time to carefully consider the
 feedback and incorporate it in future outreach efforts, both in the
 planning of future events as well as in the content of the event.
 Furthermore, this information is valuable to exchange with others that
-share in the outreach efforts, so that the lessons learned by one
+share in the outreach efforts, so the lessons learned by one
 individual are not lost and can be used as a learning experience for
 multiple people.
 

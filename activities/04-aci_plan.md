@@ -31,7 +31,7 @@ will become apparent that multiple steps will be required to achieve
 their end goals.  To capture the requirements and major steps of taking
 the researcher from the engagement meeting to a realized research
 product that utilizes key cyberinfrastructure components for scaling and
-acceleration, an Advanced Cyberinfrastructure Plan (ACI plan) is
+acceleration, an ACI plan is
 necessary.  An ACI plan’s purpose is to capture all the general or
 specific goals and then break those down into actionable tasks and
 possibly a rough timeline.  The ACI plan can be thought of as a document
@@ -145,7 +145,7 @@ the ability to move around very large datasets in a reasonable amount of
 time is a hurdle that many of the current ACI-REFs have run up against. 
 Often, working with IT professionals at our institutions, or at the
 institution with whom the researcher is collaborating, is the proper
-route to resolution.  So keep in mind some of the basic network
+route to resolution, so keep in mind some of the basic network
 bottlenecks, but be aware that there may be technical issues you are
 unaware of if you are not tied directly into your IT department; a
 discussion with them should be a priority when dealing with these issues
@@ -188,7 +188,7 @@ adverse to this, as some areas of expertise take years to acquire; it is
 also another way to scale your interactions, if the partner is willing
 and able to assist in a way that contributes to the end solution.  A
 good set of pointers and ideas for collaborating with other groups is
-outlined in the *Connections* chapter.  For ACI plan purposes keep in
+outlined in the *Connections* chapter.  For ACI plan purposes, keep in
 mind the groups that you might frequently need to work with work to
 establish and maintain those interactions/partnerships.
 
@@ -214,23 +214,23 @@ for a group. Each plan may have it’s own sheet, with the goals at the
 top and the rows for tasks, which may be checked off or colored to
 indicate some level of progress or completeness.  The benefit of using a
 shared document is that it is lightweight and easily accessible to
-anyone; and hosted sites require no local infrastructure for support.
+anyone, and hosted sites require no local infrastructure for support.
 Additionally, these documents can be accessed via URLs from other
-documents.  There are shortcomings of this method, however: Documents
+documents.  There are shortcomings of this method, however: first, documents
 can become unwieldy if you have many plans or researchers contributing;
-searching can be a challenge, as can harvesting metrics and trends; and
+second, searching can be a challenge, as can harvesting metrics and trends; third,
 there are rarely built-in notifications or reminders.
 
 ### Redmine Method
 
 Redmine is a software project management tool with issue tracking,
-wikis, documents and organizing around projects and subjects built in. 
+wikis, documents and organizing around projects and subjects built-in. 
 The University of Hawaii has been using this method for organizing their
 ACI plans.  Individual projects can be created for the various research
 projects and the wiki can be used to capture the requirements and other
 items.  Tasks can be broken down into project issues and organized into
 particular milestones.  One of the advantages of Redmine is that it has
-user, role based access so a researcher can be given access to the
+user, role-based access so a researcher can be given access to the
 project to view progress (if they desire).  Time tracking is also
 supported, which is useful for seeing time invested on a project or
 necessary for chargeback to grants or billing in some cases.
@@ -266,15 +266,15 @@ user or user group.
 
 ### Ticket System Method
  
-This method just leverages an existing help ticket management system to
+This method leverages an existing help-ticket management system to
 capture actionable tasks.  It should work well for a team that already
 uses it for task tracking.  Depending on features it may or may not be
-possible to have documents internal to the system but most systems
-support urls in tasks description or comments so it would be possible to
-link url documents for google drive or some other cloud storage document
+possible to have documents internal to the system. However, most systems
+support URLs in tasks description or comments, so it would be possible to
+link URL documents for google drive or some other cloud storage 
 system.  Most ticketing systems support tags and searching so tracking
 some activities and metrics would likely be simpler than the spreadsheet
-method - many systems do have built in reporting as well.  Some examples
+method - many systems do have built-in reporting as well.  Some examples
 of ticketing systems in use are JIRA, Redmine, Request Tracker and
 osTicket.
 
@@ -288,11 +288,11 @@ Once an ACI plan is created and vetted by your team, you should present
 it to the researcher and solicit feedback.  With simple, informal
 plans, an email that outlines the tasks and responsible parties for
 each task is sufficient and the above tools will not be required.  For
-more complex projects a more formal presentation is necessary, ideally
+more complex projects, a more formal presentation is necessary, ideally
 in a meeting, where it is easier to capture additional questions and
 ideas from the researcher.  Organizing the ACI plan into a few slides or
 a single physical document for easy review is recommended for a formal
-presentation or, if you are using a project management system like
+presentation, or if you are using a project management system like
 Redmine, walking through the project’s roadmap and issues is prefered as
 it introduces the tool and interface to the researcher.  Be aware that
 the manner in which you introduce the ACI plan can impact your
@@ -342,7 +342,7 @@ least, sending periodic updates to communicate that work is
 on-going never hurts.
 
 A good time to follow up on completed ACI plans is around eight weeks
-after completion. At this point the researcher will have had time to
+after completion. At this point, the researcher will have had time to
 work with the solution and might have additional questions or thoughts. 
 After that, a follow-up every six months is a good idea as the PI’s
 research may have evolved or they may have started a new project.  Being

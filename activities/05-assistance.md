@@ -38,7 +38,7 @@ issues. Leveraging external technical expertise.*
 
 Assisting researchers as they actively use ACI is a key component of
 facilitation, especially if the Facilitator is directly associated with
-one or more specific ACI services, or when researchers require outside
+one or more specific ACI services or when researchers require outside
 resources. Whether researchers are already leveraging an ACI resource or
 have just gained access, they should be be able to easily obtain ongoing
 assistance from Facilitators and other ACI support staff with respect
@@ -192,7 +192,7 @@ likelihood that at least one of the office hours slots and locations
 will work for a given researcher.
 
 Depending on the popularity of office hours, it may be necessary to have
-multiple facilitators (or similar individuals) at a given session, or to
+multiple Facilitators (or similar individuals) at a given session, or to
 have other ACI staff prepared to assist should office hours become too
 busy for a sole person. As office hours are otherwise very similar to
 scheduled meetings in that they are usually executed in a face-to-face
@@ -253,10 +253,10 @@ Regardless of the assistance route, and in order to establish trust in
 the Facilitator, assistance communication should be clear to the
 researcher and be performed in a professional manner. Furthermore, as
 the primary goal of facilitation is to truly accelerate research,
-assistance strategies should clearly communicate approaches and
-solutions that will enhance each researcher’s capabilities in the use of
-ACI resources and empower the researcher to achieve more into the
-future. We discuss below these overall considerations, which apply to
+assistance strategies should clearly communicate approaches,
+enhance each researcher’s capabilities, 
+and empower the researcher to achieve more in the use of
+ACI resources into the future. We discuss below these overall considerations, which apply to
 multiple assistance contexts covered below,
 including "[Addressing User-reporting Issues](#issues)", 
 "[Assistance for Non-issue Support Requests](#non-issue)", and 
@@ -302,7 +302,7 @@ follow typical practices for professional email communication, including
 the use of greetings and introducing your name and role in the email
 body and/or closing signature. Good examples of this are shown below,
 under the topics of “[Addressing User-Reported Issues](#issues)” and 
-“[Assistancefor Non-Issue Support Requests](#non-issue)”. Even for messages 
+“[Assistance for Non-Issue Support Requests](#non-issue)”. Even for messages 
 sent via email-based
 issue “ticket” systems, where there may be a tendency to leave out
 greetings and closing statements, it is important to treat communication
@@ -334,28 +334,31 @@ understanding and set of terminology (see [^4] and
 Other specific guidelines for clear wording in any communication context are:
 
 <div class="bullet-box">
-    <ul class="bullet-list-square">
-        <li> Describe concepts succinctly and in the simplest terms possible. It’s 
-        often useful to re-read and consolidate or shorten written information before sending. </li>
-        <li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
-        “your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
-        as possible (e.g. “it”, “they”, “them”). </li>
-        <li> Avoid jargon specific to an expert understanding and strive to find terminology 
-        that is familiar to the researcher. For example, use “program” or “software” if 
-        the word “executable” is less familiar. </li>
-        <li> Avoid overwhelming the researcher with too much new information at once. 
-        Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
-         [^7], and [^8] for more 
-         discussion on concept/cognitive overload. </li>
-        <li> When introducing new terminology and ideas, as necessary define terms and 
-        provide distinction from other concepts. For example, “the submit file, 
-        which will be separate from the BLAST alignment program you wish to run 
-        within each job ...”. </li>
-        <li> Minimize the use of acronyms by limiting these to terms that are: (1)
-         already familiar to the researcher, and/or (2) have been sufficiently defined 
-         and used previously in non-acronym forms. </li>
-    </ul>
+<ul class="bullet-list-square">
+<li> Describe concepts succinctly and in the simplest terms possible. It’s 
+often useful to re-read and consolidate or shorten written information before sending. </li>
+<li> Use specific nouns to identify relevant items and concepts (e.g. “the submit file”, 
+“your software”, “the file transfer rate”), and avoid less-specific pronouns as much 
+as possible (e.g. “it”, “they”, “them”). </li>
+<li> Avoid jargon specific to an expert understanding and strive to find terminology 
+that is familiar to the researcher. For example, use “program” or “software” if 
+the word “executable” is less familiar. </li>
+<!-- the markdown=span, which span prevents unneeded paragraph breaks, attribute seems to require the tag and its content to start in column 1 and that the closing tag must go on its own line. -->
+<li markdown="span"> Avoid overwhelming the researcher with too much new information at once. 
+Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
+[^7], and [^8] for more 
+discussion on concept/cognitive overload. 
+</li>
+<li> When introducing new terminology and ideas, as necessary define terms and 
+provide distinction from other concepts. For example, “the submit file, 
+which will be separate from the BLAST alignment program you wish to run 
+within each job ...”. </li>
+<li> Minimize the use of acronyms by limiting these to terms that are: (1)
+already familiar to the researcher, and/or (2) have been sufficiently defined 
+and used previously in non-acronym forms. </li>
+</ul>
 </div>
+
 
 Facilitators may benefit from a plethora of existing literature and
 professional development opportunities to develop excellent
@@ -369,14 +372,14 @@ solutions and recommendations.
 
 As previously stated, a key role of a Facilitator is to enable
 researchers to achieve more for themselves than they might have thought
-possible, and than might have been achievable with a purely help-desk,
-or reactive and issue-focused strategy of support. For the Facilitator,
+possible or what might have been achievable with a reactive, issue-focused strategy of support common to help-desk environments.
+For the Facilitator,
 this often means pursuing assistance that teaches a research to “fish
 for her/himself”. Rather than directly solving issues for the researcher
-or only suggesting easy to implement, short term solutions, Facilitators
+or only suggesting easy to implement, short-term solutions, Facilitators
 should strive to identify and recommend solutions that enable
 researchers to accomplish more and to imagine greater research
-possibilities, in the long term. The communication of solutions should
+possibilities, in the long-term. The communication of solutions should
 be presented, as much as possible, as a form of guided
 instruction.[^9]
 
@@ -386,7 +389,7 @@ number of specific strategies that effective Facilitators should
 implement. Firstly, it is important to consider various options relative
 to both the researcher’s immediate needs and long-term goals.
 Additionally, the Facilitator should explain reasons for recommending a
-specific solution over others, especially when an easier, but less
+specific solution over others, especially when an easier but less
 impactful solution may already be apparent. Facilitators should also
 explain their level of confidence in the researcher’s ability to
 implement various approaches or solutions, potentially based upon
@@ -428,7 +431,7 @@ reported problem by asking any clarifying questions and by stating the
 problem back to the researcher before proceeding further. This step will
 confirm the issue with the researcher and may train the researcher to
 provide pertinent details of what they observe early on in future help
-requests. If multiple problems were reported, or the Facilitator
+requests. If multiple problems were reported or the Facilitator
 perceives that there may be more than one issue at play, these should be
 stated and addressed, separately.
 
@@ -471,27 +474,24 @@ communication with a researcher:
 ~~~
 ------------------------ 
 Hello, 
-I tried to use ‘scp’ to copy data to my 
-user directory on host1.org.univ.edu, but I get a “Permission denied”
-error.  Is something wrong with my account? 
+I tried to use ‘scp’ to copy data to my user directory on host1.org.univ.edu,
+but I get a “Permission denied” error. Is something wrong with my account? 
 -John Scientist
 ------------------------ 
 Hi John, 
 
-Thank you for writing to us with this
-question. In order to understand why your scp command isn’t working, can
-you send me the exact command you’re using and the terminal output when
-you run the command? From what I can tell, there doesn’t seem to be
-anything wrong with your account, but we’ll figure out what’s not
-working.
+Thank you for writing to us with this question. In order to understand why
+your scp command isn’t working, can you send me the exact command you’re
+using and the terminal output when you run the command? From what I can
+tell, there doesn’t seem to be anything wrong with your account, 
+but we’ll figure out what’s not working.
 
 Thank you, 
 Michelle Facilitator 
 Research Computing Facilitator, CHTC
 ------------------------- 
 Hi Michelle, 
-Here are the lines from my
-terminal: 
+Here are the lines from my terminal: 
 JohnDesktop:~ JohnSl$ scp myfile host1.org.univ.edu:/home/jscientist 
 jscientist@host1.org.univ.edu's password: 
 scp: /home/jscientist/myfile: Permission denied
@@ -500,13 +500,12 @@ scp: /home/jscientist/myfile: Permission denied
 ------------------------ 
 Hi John, 
 
-Ah. I think I see what’s wrong.
-When you use ‘scp’ from your desktop, the ‘scp’ program assumes that
-you’ll be connecting as your Desktop username (“JohnS”) unless you
-specify that your username on the server is different.  Our own guide
-for file transfer has some examples explaining this behavior and other
-scp features (org.univ.edu/guides/filetransfer.html), and there is even
-more information online if you Google something like “scp guides”.
+Ah. I think I see what’s wrong. When you use ‘scp’ from your desktop, the
+‘scp’ program assumes that you’ll be connecting as your Desktop username
+(“JohnS”) unless you specify that your username on the server is different.
+Our own guide for file transfer has some examples explaining this behavior
+and other scp features (org.univ.edu/guides/filetransfer.html), and there is
+even more information online if you Google something like “scp guides”.
 
 Here’s a command that should work for you: 
 scp myfile jscientist@host1.org.univ.edu:/home/jscientist
@@ -531,7 +530,7 @@ documentation for the ACI resource.
 It should be made clear to users that
 this location must be consulted before request for assistance,
 but these issues may be reported in assistance routes nevertheless.
-Other issues may still require examination on a case-by-case basis,
+Other issues may still require examination on a case-by-case basis
 but may need only minor “tweaks” for each user.
 It is important that the Facilitator identifies such recurring issues,
 and prepares a “template” communication that can be reused each time.
@@ -544,11 +543,11 @@ Jump to: [top](#toc)
 <h1>Assistance for Non-Issue Support Requests</h1>
 
 Often, users may contact Facilitators to discuss questions about ACI
-options, capabilities, and modes of use. Typically these questions
+options, capabilities, and modes of use. Typically, these questions
 differ from assisting with issues in that the user hasn’t encountered a
-specific difficulty in using an ACI system, but may instead have more
-general, proactive questions that can be addressed with targeted
-clarification and guidance, or for which existing education and training
+specific difficulty in using an ACI system. Instead, these questions are more
+general and more proactive. These questions can be addressed with targeted
+clarification and guidance or for which existing education and training
 materials will be sufficient.
 
 Examples of non-issue requests can include: 
@@ -566,8 +565,8 @@ information exchange may be appropriate, as demonstrated in the below
 steps, though the overall process is still very similar in some ways to
 issue resolution. Some non-issue questions may actually lead to a true
 engagement, where a more complex ACI plan can be discussed. However, the
-progression to deciding an engagement is necessary would still follow
-the first few steps below, and according to practices described in
+progression to deciding if an engagement is necessary would still follow
+the first few steps below and according to practices described in
 *[Engaging Researchers](03-engagement)*. As a clear demonstration, we provide two simple
 examples of email communication for non-issue requests, though the same
 ideas would apply within the context of other assistance route(s).
@@ -577,7 +576,7 @@ ideas would apply within the context of other assistance route(s).
 
 After receiving a non-issue question from a researcher, it is important
 to fully understand the researcher’s intent and the scope of information
-they’re seeking, within the context of what the Facilitator already
+they’re seeking within the context of what the Facilitator already
 knows about the researcher’s relevant ACI knowledge, as is demonstrated
 in the following exchange:
 
@@ -623,7 +622,7 @@ Example 2: Email from Researcher regarding the use of research computing resourc
 
 In some cases, the original question(s) may be limited by the
 researcher’s current knowledge of ACI such that the researcher is
-actually seeking an answer to a slightly different question; or such
+actually seeking an answer to a slightly different question or such
 that the researcher’s goals can be best addressed by a different
 solution than originally suggested. Additionally, the Facilitator may be
 able to anticipate and answer other questions in order to reduce the
@@ -667,7 +666,7 @@ Example 2: (continued)
 <a name="non-empower"></a>
 <h2>Empower the User to Find Her/His Own Answers</h2>
 
-As demonstrated in the facilitator’s response above, it is important to
+As demonstrated in the Facilitator’s response above, it is important to
 link to external resources that contain solutions for achieving a
 researcher’s goals. This practice is not only important for providing
 next steps, but also demonstrates how one might find answers to such
@@ -724,7 +723,7 @@ assistance may even evolve into conversations more akin to engagements.
 This particular activity is perhaps the most important component
 distinguishing the facilitation approach from more common approaches of
 supporting users of CI, whereby researchers are provided with written
-documentation and are left to initiate contact with facilitators.
+documentation and are left to initiate contact with Facilitators.
 Proactive assistance allows Facilitators to build upon relationships
 with researchers and, more importantly, to identify issues that users
 may not think to ask about.
