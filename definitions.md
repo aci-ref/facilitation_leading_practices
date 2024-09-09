@@ -26,11 +26,13 @@ for transformative impacts to scholarship products. (See also,
 
 ACI-REF
 : *(Advanced Cyberinfrastructure - Research and Education Facilitators)*
-: (1) a Facilitator directly affiliated with the NSF-sponsored project of the
-same name, or 
-: (2) the NSF-sponsored collaboration of multiple
+: (1) the NSF-sponsored project 
+([#1341945](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1341935)), 
+a collaboration of multiple
 institutions invested in the professional development of Facilitators in
-support of cyberinfrastructure scholarship. Throughout the Facilitation
+support of cyberinfrastructure scholarship, or ...
+: (2) a Facilitator directly affiliated with the NSF-sponsored project in #1.
+Throughout the Facilitation
 Leading Practices, we strive to clarify which entity is referred to by
 using more specific language, such as “ACI-REF project”, “ACI-REF
 institutions”, or “an ACI-REF”.
@@ -42,7 +44,7 @@ software, and human resources to be leveraged together as infrastructure
 with formal support. The use of these elements is more specialized or
 “advanced” as compared to information technology for generalizable
 activities such as email, document creation/sharing, desktop/laptop
-provisioning and support, etc. See also “ACI resource”. “ACI” may be
+provisioning and support, etc. See also “ACI resource” (just below). “ACI” may be
 used as a noun, but is more often used as a descriptor for more specific
 nouns, as in “ACI resource”, “ACI staff”, “ACI provider”, etc., as
 described below
@@ -99,7 +101,7 @@ described below
 
 outreach
 : activities that promote awareness of ACI resources, service providers,
-and/or systems to encourage interest in pursuing them. (See *Outreach* for
+and/or systems to encourage interest in pursuing them. (See *[Outreach](../activities/02-outreach)* for
 more details and examples.)
 
 engagement
@@ -120,7 +122,7 @@ Researchers](../activities/06-education)* for more details and examples.)
 on-boarding
 : the processes of orientation and initial ramp-up in abilities for either
 (1) researchers new to using an ACI resource or service, or (2) newly
-hired Facilitators. (See *Getting Established* for more details and
+hired Facilitators. (See *[Getting Established(../activities/01-getting-established)* for more details and
 examples of the second case.)
 
 assistance
