@@ -65,7 +65,7 @@ compared to other traditional ACI staffing roles. Based upon this
 philosophical description, we establish the major categories of
 facilitation practices, referred to as *[Major Activities of Facilitation](../activities)*,
 and discuss implications for the necessary skills and background of
-effective Facilitators. Thus, the majority of the *Facilitation Best
+effective Facilitators. Thus, the majority of the *Facilitation Leading
 Practices* documentation is presented as chapters (1-10) describing
 specific considerations and approaches for each activity. The entire set
 of documentation is also accompanied by *[Key Terms and Definitions](../definitions)* of key terms and an
