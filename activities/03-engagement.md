@@ -122,7 +122,7 @@ researcher.
 
 For follow-on engagements the Facilitator may continue to meet in person
 or conduct subsequent meetings via web conferencing or by telephone.
-She/he will most likely be simultaneously corresponding via email and, 
+She/he will most likely be simultaneously corresponding via email, and 
 depending on what is discussed, it may be important to track these
 conversations as part of the official record (see "[Record Keeping of
 User Interactions](#records)"). 
@@ -257,7 +257,7 @@ about and, in doing so, we sometimes forget to listen.
 some of the policies and procedures of the institution, make a note
 without being negative or apologetic.
 
-5. **_Describe the resource_**s. Explain the relative scale of relevant
+5. **_Describe the resources_**. Explain the relative scale of relevant
 ACI resources and what that scale enables. Often researchers are so
 focused on past solutions and their current lab capabilities that they
 miss the positive impacts of scaling up.
@@ -292,7 +292,7 @@ have questions that cannot be addressed within your team.
 
 ## Concluding the Meeting
 
-By the end of the meeting the Facilitator should have good comprehension
+By the end of the meeting, the Facilitator should have good comprehension
 of the researcher’s work and goals, and devise some form of an ACI plan,
 whether formal or informal. Prior to concluding this or any
 meeting, it is important to review the actionable items which, in this
@@ -307,7 +307,7 @@ expectations about future outcomes, so conclude with clear tasks and timelines. 
 	<li>"The system administrator is going to setup an account on the cluster
 by Thursday and will email you the account login information."  </li>
 	<li>"I’ll send you an email by the end of the day summarizing everything
-we’ve discussed and links to the web pages we went over today so you can
+we’ve discussed and links to the web pages we went over today, so you can
 get started as soon as you’re ready."</li>
 </ul>
 </div>
@@ -320,7 +320,7 @@ a course of action that is more complex. In these instances, it is ideal
 to create an ACI plan (see *[Implementing an ACI Plan](../04-aci_plan)* for more
 details) to document and organize all the major steps as one of the
 engagement outcomes. This plan can be used to drive future assistance
-and engagement meetings and aide in keeping the team organized for
+and engagement meetings and aid in keeping the team organized for
 specific tasks that relate to particular researchers. It provides a
 framework to track tasks that block other tasks while highlighting
 dependencies. In essence, an ACI plan is a blueprint or project
@@ -448,7 +448,7 @@ return on investment for each part of the process.
 The current ACI-REF institutions differ on implementation of engagement
 and user tracking, but there are significant commonalities in features.
 Leveraging existing tools, especially for assistance requests across IT
-teams for resources like networking and storage is recommended to reduce
+teams for resources like networking and storage, is recommended to reduce
 complexity and infrastructure (see the chapter on [Assistance](../05-assistance) for
 additional ideas and information). Also, recognize that some of these
 tools may be managed outside of your group, as is often common when
@@ -507,7 +507,7 @@ members utilize them consistently. If not, there will be
 confusion, dropped tasks, and potentially lost credibility with
 researchers. Additionally, if you are tracking any metrics or
 information, a lack in consistency will result in unreliable results and
-will hinder your efforts. With multiple facilitators on your
+will hinder your efforts. With multiple Facilitators on your
 team, ensure that everyone is trained and understands the tracking
 procedures that are in place. For an example of tracking and documenting an engagment see [Appendix 3.1](../../appendix/3.1-engagement-documentation)
 

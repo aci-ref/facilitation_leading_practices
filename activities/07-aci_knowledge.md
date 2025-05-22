@@ -39,16 +39,16 @@ developed learning materials, for both existing and emerging ACI
 resources, for the purpose of identify potential on-site trainings for
 their communities. Staying current can be a challenge, with numerous
 updates and releases throughout the year, and especially if these
-activities are not explicitly scheduled as part of a facilitator’s
+activities are not explicitly scheduled as part of a Facilitator’s
 duties, so devoting time to this pursuit, each week if possible, but at
 a minimum each month, is highly recommended.
 
 In addition to seeking information to enhance one's own knowledge of
-ACI, facilitators should also look for existing resources and materials
+ACI, Facilitators should also look for existing resources and materials
 that can be used by their research user community. Examples of these
-kinds of materials are listed in the following sections, and may overlap
-with the tutorials and documents listed as resources for facilitator
-training
+kinds of materials are listed in the following sections and may overlap
+with the tutorials and documents listed as resources for Facilitator
+training.
 
 The rest of this chapter discusses resource types and specific
 strategies for staying current with ACI resources as a Facilitator.
@@ -66,9 +66,9 @@ In addition to studying online
 resources and published materials on their own, it is recommended that
 Facilitators participate in professional development opportunities that
 combine learning and professional networking. Participation should focus
-on areas that are of interest to the facilitator and will also benefit
+on areas that are of interest to the Facilitator and will also benefit
 the institution.  Ideas for areas to pursue professional development and
-training for ACI facilitators are:
+training for ACI Facilitators are:
 <div class="bullet-box" style="clear: right;">
     <ul class="bullet-list-square">
 	<li>Teaching: Facilitators should continue to update their skills in
@@ -76,22 +76,22 @@ teaching and learn the current trends and leading practices to make
 trainings more beneficial for researchers.</li>
 	<li>Public speaking and presenting: In line with teaching methods, improving
 presentation skills provides benefits not just in training but at
-conferences and over venues where facilitators need to communicate.</li>
-	<li>Grant writing: Many facilitators work in research institutions where
-grant funding is common so learning or enhancing grant writing skills is
+conferences and over venues where Facilitators need to communicate.</li>
+	<li>Grant writing: Many Facilitators work in research institutions where
+grant funding is common, so learning or enhancing grant writing skills is
 important.</li>
 	<li>ACI Software: Enhancing skills with existing software tools at the
 institution or learning how to use new tools is important in supporting
 and serving the research community in their use of similar tools.</li>
-	<li>ACI Hardware: Some facilitators work with ACI hardware for compute,
-storage and visualization so it is important to keep those skills and
+	<li>ACI Hardware: Some Facilitators work with ACI hardware for compute,
+storage and visualization, so it is important to keep those skills and
 certifications current.</li>
 	<li>ACI System Management: In keeping the ACI resources healthy and
-functional there are a number of tools that are specific to making this
+functional, there are a number of tools that are specific to making this
 more manageable and efficient.</li>
 </ul>
 </div>
-Many of the in-person professional development available to facilitators
+Many of the in-person professional development available to Facilitators
 are provided by vendors and through conferences and are discussed
 further in this section.
 
@@ -110,23 +110,23 @@ in ACI is sold by commercial vendors whose sales teams are often
 incentivized to help advertise their products by providing product
 training for their customers. These trainings  typically occur at
 workshops in conference settings and are  most useful when the vendor
-has a worthwhile training module that enhances a facilitator’s
+has a worthwhile training module that enhances a Facilitator’s
 understanding of how to utilize the product to accelerate or advance
 research and is relevant to the targeted community. If there is already
-a relationship with a vendor, for a product that the institution has
-acquired or that the research community is  using,  or if the
-institution plans to make new or additional purchases, the Facilitator
+a relationship with a vendor for a product that the institution has
+acquired, that the research community of the institution is  using, or that the
+institution plans to make new or additional purchases then the Facilitator
 can usually work with the vendor to produce a quality training
 opportunity.
 
 In addition to trainings, vendors can provide information about upcoming
 products that may offer a glimpse of the direction the industry is
-heading, for similar products and services. Having a good working
+heading for similar products and services. Having a good working
 relationship with vendor representatives can keep Facilitators informed
-about current  technology, in addition to providing existing product
+about current  technology in addition to providing existing product
 updates and improvements.  This usually requires no more than a simple
 subscription to a mailing list or company newsletter. Information can
-also be directly solicited from vendors to enhance a facilitator’s
+also be directly solicited from vendors to enhance a Facilitator’s
 personal knowledge or relationship with a representative, for example, 
 to request the vendor’s participation in training events, to enhance
 potential offerings at an ACI site.
@@ -136,21 +136,21 @@ potential offerings at an ACI site.
 ## Conferences
 
 Academic conferences are an important venue for networking and knowledge
-exchange among researchers and other domain experts. . They are often
+exchange among researchers and other domain experts. They are often
 the place where cutting edge ACI is presented and published in the
 conference proceedings. There is great opportunity for learning at these
 events, both interpersonally and professionally, and ideas can often be
 brought back to the Facilitator’s institution and applied in their own
 work and facilitation. In addition to meeting and learning from others,
 conferences provide  many opportunities for sharing a Facilitator’s own
-experiences and research, by submitting a poster or presentation
-abstract, or by contributing to an organizational presence, for example,
-if the Facilitator’s institution has  an exhibition booth.
+experiences and research either by submitting a poster, presentation
+abstract, or by contributing to an organizational presence
+if, for example, the Facilitator’s institution has  an exhibition booth.
 
 Attending conference presentations is a good way to learn and improve
 skills and knowledge in a new field or area of interest. It is a good
-opportunity to engage with the work of others — to ask questions and to
-talk with presenters, or participants after a panel. Like any other
+opportunity to engage with the work of others, to ask questions, and to
+talk with presenters or participants after a panel. Like any other
 profession, interpersonal networking is important for ACI facilitation.
 This is also a potential avenue for making contacts that may lead, for
 example, to being invited to join collective research projects and
@@ -166,7 +166,7 @@ opportunities for interpersonal engagement and organized discussions of
 current topics with a wide-range of practitioners in the topic area.
 
 Some examples of ACI conferences that have been beneficial for current
-ACI facilitators are:
+ACI Facilitators are:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 	<li>XSEDE annual conference</li>
@@ -189,9 +189,9 @@ and people are present.  Keep in mind the benefit of the conference as
 well as the discussions amongst peers when considering what to attend.
 Some of the more impactful professional development and training
 opportunities available at conferences can also occur during the days
-preceding the conference, as half or whole day tutorial and workshop
-events,which often have a broader focus than the single topic short
-sessions of the technical conference.
+preceding the conference, as half- or whole-day tutorial and workshop
+events, which often have a broader and/or deeper presentation rather
+than the focused, short sessions of the technical conference.
 
 <a name="online"></a>
 
@@ -202,10 +202,10 @@ the many existing online communities. Most announcements, updates, news
 articles and other publications are first released on websites, in
 regular emails, and within community forums. Beyond the reading
 materials, there may be online video tutorials and self-paced trainings
-published by various ACI experts that may guide facilitators to new and
+published by various ACI experts that may guide Facilitators to new and
 popular areas of interest. Furthermore, these online resources can be a
 starting point for finding collaborators in some of the emerging ACI
-communities, and for learning about relevant face-to-face workshops and
+communities and for learning about relevant face-to-face workshops and
 conference opportunities.
 
 The rest of this section provides the main categories of online
@@ -228,7 +228,6 @@ grow on the http://aciref.org website.
 ### Listing of Training Resources: 
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>ACI-REF -<a href="https://aciref.org/research-computing/learning-resources/">https://aciref.org/research-computing/learning-resources/</a></li>
 	<li>XSEDE - <a href="https://portal.xsede.org/web/xup/online-training">https://portal.xsede.org/web/xup/online-training</a></li>
   </ul>
 </div>
@@ -236,20 +235,22 @@ grow on the http://aciref.org website.
 ### On-Demand Tutorials:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-	<li>Open Science Grid User School - <a href="http://opensciencegrid.org/UserSchool">http://opensciencegrid.org/UserSchool</a></li>
+	<li>Open Science Grid Virtual School - <a href="https://opensciencegrid.org/events/OSG-Virtual-School/">https://opensciencegrid.org/events/OSG-Virtual-School/</a></li>
 	<li>OSG Connect Helpdesk - <a href="https://support.opensciencegrid.org/support/home">https://support.opensciencegrid.org/support/home</a></li>
-	<li>NCSA Cyberinfrastructure Tutor - <a href="https://www.citutor.org/browse.php">https://www.citutor.org/browse.php</a></li>
+	<li>Illinois NCSA HPC Training Moodle - <a href="https://www.hpc-training.org/xsede/moodle/">https://www.hpc-training.org/xsede/moodle/</a></li>
 	<li>Cornell Virtual Workshop - <a href="https://cvw.cac.cornell.edu/topics">https://cvw.cac.cornell.edu/topics</a></li>
 	<li>Virtual School of Computational Science and Engineering -
 	<a href="http://www.vscse.org/">http://www.vscse.org/</a></li>
 	<li>HPC University - <a href="http://hpcuniversity.org/trainingMaterials/">http://hpcuniversity.org/trainingMaterials/</a></li>
 	<li>ARCHER Virtual Tutorials -
 <a href="https://www.archer.ac.uk/training/virtual/index.php">https://www.archer.ac.uk/training/virtual/index.php</a></li>
-	<li>Wolfram Training: HPC Courses -
-<a href="https://www.wolfram.com/training/courses/hpc/">https://www.wolfram.com/training/courses/hpc/</a></li>
-	<li>PRACE Tutorials - <a href="http://www.training.prace-ri.eu/tutorials/index.html">http://www.training.prace-ri.eu/tutorials/index.html</a></li>
+	<li>Wolfram Training: GPU Computing -
+<a href="https://reference.wolfram.com/language/guide/GPUComputing.html">https://reference.wolfram.com/language/guide/GPUComputing.html</a></li>
+	<li>Wolfram Training: Parallel Computing -
+<a href="https://reference.wolfram.com/language/guide/ParallelComputing.html">https://reference.wolfram.com/language/guide/ParallelComputing.html</a></li>
+	<li>PRACE Tutorials - <a href="https://training.prace-ri.eu/index.php/prace-tutorials/">https://training.prace-ri.eu/index.php/prace-tutorials/</a></li>
 	<li>LLNL HPC Trainings - <a href="https://computing.llnl.gov/?set=training&page=index">https://computing.llnl.gov/?set=training&page=index</a></li>
-	<li>NCI Trainings - <a href="http://nci.org.au/user-support/training/">http://nci.org.au/user-support/training/</a></li>
+	<li>NCI Trainings - <a href="https://nci.org.au/users/user-training">https://nci.org.au/users/user-training/</a></li>
 	<li>SCAI Online Training - <a href="http://www.hpc.cineca.it/content/online-training">http://www.hpc.cineca.it/content/online-training</a></li>
 	<li>Georgia Tech HPC Course -
 <a href="https://www.udacity.com/course/high-performance-computing--ud281">https://www.udacity.com/course/high-performance-computing--ud281</a></li>
@@ -265,7 +266,7 @@ grow on the http://aciref.org website.
 </div>
 The examples provided for existing documentation resources providers not
 exhaustive. They are intended to provide concrete examples of
-documentation and training materials that current facilitators find
+documentation and training materials that current Facilitators find
 relevant.
 
 <a name="networking"></a>
@@ -275,15 +276,14 @@ relevant.
 Social media is a popular way to keep up with technological trends, as
 news is readily posted by information providers. There are pros and cons
 to its use: Its immediacy is beneficial in fast-paced arenas like
-research and technology, however, the content is customarily not peer
-reviewed, nor is there a guarantee of quality. With those caveats in
-mind, facilitators can begin reaping the benefits of social networks by
+research and technology; however, the content is customarily not peer
+reviewed nor is there a guarantee of quality. With those caveats in
+mind, Facilitators can begin reaping the benefits of social networks by
 joining various sites such as LinkedIn or Researchgate, which are aimed
 at professional and research communications. Examples of LinkedIn groups
 include:
 <div class="bullet-box">
     <ul class="bullet-list-square">
-    <li>HPC - <a href="https://www.linkedin.com/topic/high-performance-computing">https://www.linkedin.com/topic/high-performance-computing</a></li>
     <li>Cloud Computing -  <a href="https://www.linkedin.com/groups/61513/profile">https://www.linkedin.com/groups/61513/profile</a></li>
     <li>Women in HPC - <a href="https://www.linkedin.com/groups/8105215/profile">https://www.linkedin.com/groups/8105215/profile</a></li>
 	<li>Multicore and Parallel Computing -
@@ -294,12 +294,12 @@ include:
 Before social media, professional organizations commonly provided an
 outlet for networking with colleagues and learning of updates and the
 latest trends. Most organizations have transitioned to social media and
-may have a presence on numerous social media platforms, but still
+may have a presence on numerous social media platforms but still
 maintain their own sites and offline presence as well. There can be
 additional benefits to becoming a member of these sites, as well as
 opportunities for participating in committees and governance groups.
 Some examples of professional organizations that current ACI
-facilitators find useful are listed below:
+Facilitators find useful are listed below:
 
 <div class="bullet-box">
     <ul class="bullet-list-square">
@@ -314,7 +314,7 @@ facilitators find useful are listed below:
 </div>
 The examples provided for social media and organizations are not
 exhaustive. They are intended to provide concrete examples that can be
-used to gauge the utility of further and future sites, as they arise or
+used to gauge the utility of further and future sites as they arise or
 are discovered.
 
 <a name="reading"></a>
@@ -324,7 +324,7 @@ are discovered.
 In academia, the scientific journal has been the classic repository for
 knowledge and discovery.  However, blogs and trade magazines also offer
 a gateway and enhancement to journal publications. These platforms
-frequently offer ACI facilitators materials for learn about the current
+frequently offer ACI Facilitators materials for learn about the current
 trends of ACI as well as the current research taking place.
 
 A list of suggested materials that is not exhaustive can be found in
@@ -360,9 +360,8 @@ this section and on the ACI-REF website.
     <li>Cray Blog - <a href="http://www.cray.com/blog/">http://www.cray.com/blog/</a></li>
 	<li>Dell HPC Blog - <a href="http://en.community.dell.com/techcenter/high-performance-computing/">http://en.community.dell.com/techcenter/high-performance-computing/</a></li>
 	<li>Cisco HPC Blog - <a href="http://blogs.cisco.com/tag/hpc">http://blogs.cisco.com/tag/hpc</a></li>
-	<li>SGI Blog - <a href="http://blog.sgi.com/">http://blog.sgi.com/</a></li>
 	<li>Puget Systems HPC Blog - <a href="https://www.pugetsystems.com/all_hpc.php">https://www.pugetsystems.com/all_hpc.php</a></li>
-	<li>Mellanox HPC Blog - <a href="http://www.mellanox.com/blog/category/hpc/">http://www.mellanox.com/blog/category/hpc/</a></li>
+	<li>NVIDIA HPC-tagged Blogs - <a href="https://developer.nvidia.com/blog?tags=hpc">https://developer.nvidia.com/blog?tags=hpc</a></li>
 	<li>Microsoft HPC Blog - <a href="https://blogs.technet.microsoft.com/windowshpc/">https://blogs.technet.microsoft.com/windowshpc/</a></li>
     </ul>
 </div>
@@ -383,12 +382,12 @@ Neither science nor facilitation take place in a vacuum. It takes an
 academic village, where villagers know one another and work together, to
 foster inquiry and research. These villages, or communities of practice,
 consist of professional and subject matter networks. Similarly,
-connecting with other ACI facilitators and researchers is an opportunity
+connecting with other ACI Facilitators and researchers is an opportunity
 for the exchange of ideas and knowledge about the many aspects of ACI.
 These exchanges can enhance a Facilitator’s existing knowledge and
 advance their professional growth.
 
-However, networking requires an investment in time and many facilitators
+However, networking requires an investment in time and many Facilitators
 already have little to spare. Ideally, they will choose networks that
 provide the most benefit, and can do so by looking for networks that
 meet the following criteria:
@@ -416,12 +415,12 @@ to ACI are:
     </ul>
 </div>
 
-Not to overlook the local resources at a facilitator's disposal,
-networks can also be internal to an institution and the facilitator
+Not to overlook the local resources at a Facilitator's disposal,
+networks can also be internal to an institution and the Facilitator
 should inquire about local groups or initiatives for faculty, staff and
 graduate student researchers. These types of networks offer
 institutional knowledge exchange, both historical and contemporary,
-which can be useful technically, but are especially helpful for
+which can not only be useful technically, but also are especially helpful for
 understanding the institutional atmosphere.  In addition to these more
 formal networking opportunities, there may also be less formal intra- or
 inter-departmental events such as luncheon meetings with colleagues, and

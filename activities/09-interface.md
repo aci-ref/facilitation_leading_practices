@@ -15,7 +15,7 @@ enhancement and optimization of ACI Resources.*
 
 1. [Introduction](#introduction)
 2. [Collaborating with ACI Staff in Your Working Group](#working-group)   
-	2.1 [Coordinate with Other Facilitators](#facilitators)   
+	2.1 [Coordinate with Other Facilitators](#Facilitators)   
 	2.2 [Establish Working Relationships with Other Personnel](#other-personnel)    
 	2.3 [Communicate via Consistent Practices](#consistency)
 3. [Building Connections beyond Your Direct Working Group](#beyond-working-group)   
@@ -29,16 +29,16 @@ enhancement and optimization of ACI Resources.*
 
 Given the range of facilitation activities discussed in prior chapters
 and the range of technical knowledge required to facilitate varying
-researcher needs across applicable ACI, it should be natural but also
-essential for Facilitators to build an interpersonal network of
+researcher needs across applicable ACI, it is essential, and should be natural,
+for Facilitators to build an interpersonal network of
 coworkers and other professionals with expertise in applicable areas.
 Certainly, no single individual will possess the entirety of skills and
 experience necessary to identify appropriate technical and non-technical
 solutions such as learning materials and human connections that will
 enable researchers. Rather, Facilitators might think of themselves more
 as a gateway to information for researchers, whether by way of
-possessing that knowledge themselves, or by knowing how and where to
-find additional information resources, which should include the
+possessing that knowledge themselves or by knowing how and where to
+find additional information resources; Facilitators should include the
 expertise of other ACI staff, both within and external to the
 Facilitator’s immediate working group. More specifically, Facilitators
 will frequently collaborate with other personnel when pursuing a variety
@@ -79,14 +79,14 @@ significantly with members of their immediate working group, especially
 in supporting the day-to-day activities of working with researchers. The
 immediate working group of a Facilitator of research computing services
 will typically include other Facilitators, systems specialists, and
-direct supervisors. Practices for collaboration, including coordinating
-with other facilitators, developing relationships with other ACI
-specialists, and establishing consistent communication practices, are
+direct supervisors. Practices for collaboration - including coordinating
+with other Facilitators, developing relationships with other ACI
+specialists, and establishing consistent communication practices - are
 addressed in the following sections.
 
 Jump to: [top](#toc)
 
-<a name="facilitators"></a>
+<a name="Facilitators"></a>
 
 ## Coordinate with Other Facilitators
 
@@ -117,13 +117,13 @@ Jump to: [top](#toc)
 ## Establish Working Relationships with Other Personnel
 
 Within the Facilitator’s immediate ACI team, the Facilitator will
-frequently depend on input, expertise, and effort other staff. Depending
+frequently depend on input, expertise, and effort from other staff. Depending
 on the services and staffing model, Facilitators should work to
 cultivate positive working relationships with all staff within their
-unit, but especially with those whose efforts most directly inform
+unit, especially with those whose efforts most directly inform
 facilitation practices and impact researchers. For example, a
 Facilitator of research computing resources will likely collaborate with
-systems administrators of compute and data storage systems, and perhaps
+systems administrators of compute and data storage systems and perhaps
 with programmers on staff who contribute to operations or collaborate on
 research projects. Developing productive relationships with these
 individuals will be especially important for a number of facilitation
@@ -173,7 +173,7 @@ Jump to: [top](#toc)
 # Building Connections beyond Your Direct Working Group
 
 <div class="captioned">
-<a href="https://aciref.org/facilitators/bios/" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_PEARC17chat.jpg" alt="UW CHTC Staff"></a><br>ACI-REFs chatting between sessions at PEARC17
+<a href="https://aciref.org/Facilitators/bios/" target="_blank"><img class="captioned size300" src="{{ site.baseurl }}/images/09_02_PEARC17chat.jpg" alt="UW CHTC Staff"></a><br>ACI-REFs chatting between sessions at PEARC17
 </div>
 Because a Facilitator should act as an “honest broker” for researchers
 by pointing them to the most appropriate ACI resources beyond the
@@ -237,7 +237,7 @@ and for which a personal connection will benefit researchers with whom
 the Facilitator works with. For example, nationally-funded computing
 resources such as XSEDE, the Open Science Grid (OSG), the National
 Center for Genome Analysis Support (NCGAS), and other widely available
-providers of computing resources and consulting services, are likely to
+providers of computing resources and consulting services are likely to
 be important options for some researcher needs. Facilitators should take
 advantage of opportunities to connect with representatives from these
 organizations in order to liaise a researcher’s introduction to their
@@ -250,7 +250,7 @@ communities are most likely to provide opportunities for relevant
 conversations; for example, many ACI-REF Facilitators participate in the
 following events: XSEDE and OSG conferences, Advanced Research Computing
 on Campuses (ARCC) meetings, Campus Research Computing (CaRC)
-Infrastructures Consortium, and many others listed [here](https://aciref.org/project/conferences/).
+Infrastructures Consortium, and many others listed [here](https://aci-ref.org/project/conferences/).
 
 Beyond researcher-facing services, there are several reasons why a
 Facilitator may develop relationships with outside vendors of hardware,
@@ -260,15 +260,15 @@ the Facilitator may end up coordinating the researcher purchases of
 hardware as part of a ‘condo’ model of data storage or computing
 capacity. For large additions of hardware within the Facilitator’s ACI
 organization, the Facilitator may arrange meetings with vendors to find
-the most appropriate additions to meet researcher needs. Facilitators
-may also coordinate software license purchases that are shared across
-research groups or made with central campus funds, may work with vendors
+the most appropriate additions to meet researcher needs. Also, Facilitators
+may coordinate software license purchases that are shared across
+research groups or made with central campus funds, work with vendors
 to explore new middleware options to enhance the user interface to local
-resources, or may coordinate and contribute to trainings in using
+resources, and/or coordinate and contribute to trainings in using
 vendor-provided software for local researchers. In all of these cases,
 the best outcomes for researchers and their projects will be achieved if
 the Facilitator can contribute positively to the relationship with
-vendors in terms of specifying needs and representing use cases, as well
+vendors in terms of specifying needs and representing use cases as well
 as negotiating prices. These relationships and interactions with vendors
 should also be coordinated with supervisors and across the working
 group.
@@ -296,8 +296,8 @@ improve ACI resources across organizations. In order to explore
 improvements to in-house ACI resources with coworkers, the Facilitator
 can leverage known examples from organizations providing similar or
 overlapping services. Facilitators should also explore ways to
-constructively inform the service offerings of other resource providers,
-whether on-campus, off-campus, or commercial, and with specific
+constructively inform the service offerings of other resource providers -
+whether on-campus, off-campus, or commercial - and with specific
 attention to feedback from researchers.
 
 Similarly, the Facilitator and his/her organization should seek feedback
@@ -305,7 +305,7 @@ from other service providers, especially when that feedback directly
 reflects researcher perspectives and evolving needs. Within an
 institution, researchers and ACI providers will benefit when
 Facilitators can help various providers to coordinate complementary
-services that researchers can easily transition between, while also
+services that researchers can easily transition between while also
 optimizing the full spectrum of services and addressing potential
 redundancies. Because of their exposure to researcher struggles and
 practices across the various facilitation activities covered in these
