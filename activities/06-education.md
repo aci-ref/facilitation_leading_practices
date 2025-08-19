@@ -627,7 +627,9 @@ the Frequently Asked Questions or FAQ document, with practices drawing
 on a combination of those for other written formats. Because the FAQ is
 such a specific and pervasive format of documentation, numerous sources
 can be found on the web with common practices for generating effective
-FAQs, and therefore will not be cited here. Generally, FAQs should:
+FAQs, and therefore will not be cited here. 
+
+Generally, FAQs should:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 <li markdown="span">include questions that *are* frequently asked
