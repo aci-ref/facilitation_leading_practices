@@ -23,12 +23,12 @@ effective teaching.*
     2.5 [Obtain and Integrate Feedback](#feedback)    
     2.6 [Infrastructure Needed for Material Development](#infrastructure)    
 3. [Content Development Strategies](#development)    
-    3.1 [Establish goals of the learning material](#goals)    
-    3.2 [Clearly communicate prerequisites and limitations](#prereq)    
-    3.3 [Organize content within conceptual units](#units)    
+    3.1 [Establish Goals of the Learning Material](#goals)    
+    3.2 [Clearly Communicate Prerequisites and Limitations](#prereq)    
+    3.3 [Organize Content within Conceptual Units](#units)    
     3.4 [Clarity and Brevity](#clarity)    
     3.5 [Use Visual Aids](#visual)    
-    3.6 [Assess and revise, continually](#revise)    
+    3.6 [Assess and Revise, Continually](#revise)    
 4. [Format-Specific Considerations](#format)    
     4.1 [Written Materials](#format-written)    
     4.2 [Verbal Formats](#format-verbal)    
@@ -627,7 +627,9 @@ the Frequently Asked Questions or FAQ document, with practices drawing
 on a combination of those for other written formats. Because the FAQ is
 such a specific and pervasive format of documentation, numerous sources
 can be found on the web with common practices for generating effective
-FAQs, and therefore will not be cited here. Generally, FAQs should:
+FAQs, and therefore will not be cited here. 
+
+Generally, FAQs should:
 <div class="bullet-box">
     <ul class="bullet-list-square">
 <li markdown="span">include questions that *are* frequently asked
