@@ -25,7 +25,8 @@ title: Introduction and Major Ideas
 </tr></tbody></table>
 
 With a focus on truly accelerating scientific discovery, the
-<a href="http://aci-ref.org">ACI-REF (Advanced Cyberinfrastructure - Research and Education
+<a href="[http://aci-ref.org](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1341935)">ACI-REF 
+(Advanced Cyberinfrastructure - Research and Education
 Facilitators) project</a> is changing the way that campuses approach cyberinfrastructure 
 solutions and support for scholarship. ACI-REF facilitators (“ACI-REFs”) possessing 
 significant interpersonal skills and cyberinfrastructure-dependent research experience 

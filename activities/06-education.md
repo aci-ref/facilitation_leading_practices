@@ -125,10 +125,8 @@ Regardless of the format of learning materials or their delivery (verbal
 versus online text), there are overall practices and strategies that
 will enable Facilitators and other ACI staff to develop these materials
 for maximum effectiveness and production efficiency. In the following
-text, we list and describe many of these considerations, though many of
-them are also later discussed in the topics of "Composition Strategies",
-“Delivery and Teaching”, “[Written Formats](#format-written)”, and 
-“[Verbal Formats](#format-verbal)”.
+text, we list and describe many of these considerations, though many
+are more deeply examined in the subsequent sections of this page.
 
 <a name="gaps"></a>
 
@@ -544,8 +542,6 @@ Jump to: [top](#toc)
 
 # Format-Specific Considerations
 
-<a name="format-written"></a>
-
 <div class="bullet-box">
     <ul>
         <li class="list-checkbox"> Written Materials </li>          
@@ -565,6 +561,7 @@ Jump to: [top](#toc)
     </ul> 
 </div>
 
+<a name="format-written"></a>
 
 ## Written Materials
 

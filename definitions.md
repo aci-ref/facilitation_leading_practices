@@ -92,7 +92,7 @@ described below
 	to take advantage of additional CPU and memory capacities. Physical
 	resources within research computing services often include server-based
 	clusters and filesystems that are managed by a centralized service
-	provider and team of staff. Because the ACI-REF program includes
+	provider and team of staff. Because the ACI-REF project includes
 	Facilitators who are most-closely associated with centralized research
 	computing service providers, many of the examples in the Facilitation
 	Leading Practices documentation are explained within the context of common
